@@ -48,6 +48,7 @@ export default function () {
   useEffect(() => {
     const fetchAllData = async () => {
       try {
+        dispatcher(changeLoadingState(true));
         const [orders, sales, mediumData] = await Promise.all([
           ordersService.getAllOrders(),
           salesService.getAllSalesData(),
