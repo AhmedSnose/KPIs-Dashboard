@@ -1,0 +1,7514 @@
+{
+  "orders": [
+    [
+      {
+        "id": "1",
+        "customer": "Customer 1",
+        "amount": 884,
+        "status": "Processing",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "2",
+        "customer": "Customer 2",
+        "amount": 709,
+        "status": "Processing",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "3",
+        "customer": "Customer 3",
+        "amount": 275,
+        "status": "Pending",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "4",
+        "customer": "Customer 4",
+        "amount": 588,
+        "status": "Processing",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "5",
+        "customer": "Customer 5",
+        "amount": 837,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "6",
+        "customer": "Customer 6",
+        "amount": 476,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "7",
+        "customer": "Customer 7",
+        "amount": 188,
+        "status": "Completed",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "8",
+        "customer": "Customer 8",
+        "amount": 418,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "9",
+        "customer": "Customer 9",
+        "amount": 637,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "10",
+        "customer": "Customer 10",
+        "amount": 165,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "11",
+        "customer": "Customer 11",
+        "amount": 132,
+        "status": "Shipped",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "12",
+        "customer": "Customer 12",
+        "amount": 407,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "13",
+        "customer": "Customer 13",
+        "amount": 550,
+        "status": "Pending",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "14",
+        "customer": "Customer 14",
+        "amount": 99,
+        "status": "Processing",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "15",
+        "customer": "Customer 15",
+        "amount": 514,
+        "status": "Pending",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "16",
+        "customer": "Customer 16",
+        "amount": 492,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "17",
+        "customer": "Customer 17",
+        "amount": 702,
+        "status": "Pending",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "18",
+        "customer": "Customer 18",
+        "amount": 615,
+        "status": "Completed",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "19",
+        "customer": "Customer 19",
+        "amount": 760,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "20",
+        "customer": "Customer 20",
+        "amount": 915,
+        "status": "Completed",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "21",
+        "customer": "Customer 21",
+        "amount": 397,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "22",
+        "customer": "Customer 22",
+        "amount": 894,
+        "status": "Processing",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "23",
+        "customer": "Customer 23",
+        "amount": 155,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "24",
+        "customer": "Customer 24",
+        "amount": 1026,
+        "status": "Processing",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "25",
+        "customer": "Customer 25",
+        "amount": 759,
+        "status": "Processing",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "26",
+        "customer": "Customer 26",
+        "amount": 347,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "27",
+        "customer": "Customer 27",
+        "amount": 1045,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "28",
+        "customer": "Customer 28",
+        "amount": 828,
+        "status": "Processing",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "29",
+        "customer": "Customer 29",
+        "amount": 1035,
+        "status": "Shipped",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "30",
+        "customer": "Customer 30",
+        "amount": 98,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "31",
+        "customer": "Customer 31",
+        "amount": 463,
+        "status": "Processing",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "32",
+        "customer": "Customer 32",
+        "amount": 847,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "33",
+        "customer": "Customer 33",
+        "amount": 100,
+        "status": "Shipped",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "34",
+        "customer": "Customer 34",
+        "amount": 61,
+        "status": "Shipped",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "35",
+        "customer": "Customer 35",
+        "amount": 562,
+        "status": "Pending",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "36",
+        "customer": "Customer 36",
+        "amount": 402,
+        "status": "Shipped",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "37",
+        "customer": "Customer 37",
+        "amount": 691,
+        "status": "Completed",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "38",
+        "customer": "Customer 38",
+        "amount": 630,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "39",
+        "customer": "Customer 39",
+        "amount": 524,
+        "status": "Completed",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "40",
+        "customer": "Customer 40",
+        "amount": 762,
+        "status": "Processing",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "41",
+        "customer": "Customer 41",
+        "amount": 931,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "42",
+        "customer": "Customer 42",
+        "amount": 197,
+        "status": "Pending",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "43",
+        "customer": "Customer 43",
+        "amount": 292,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "44",
+        "customer": "Customer 44",
+        "amount": 202,
+        "status": "Processing",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "45",
+        "customer": "Customer 45",
+        "amount": 351,
+        "status": "Processing",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "46",
+        "customer": "Customer 46",
+        "amount": 968,
+        "status": "Processing",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "47",
+        "customer": "Customer 47",
+        "amount": 234,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "48",
+        "customer": "Customer 48",
+        "amount": 886,
+        "status": "Completed",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "49",
+        "customer": "Customer 49",
+        "amount": 619,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "50",
+        "customer": "Customer 50",
+        "amount": 919,
+        "status": "Processing",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "51",
+        "customer": "Customer 51",
+        "amount": 189,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "52",
+        "customer": "Customer 52",
+        "amount": 62,
+        "status": "Shipped",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "53",
+        "customer": "Customer 53",
+        "amount": 573,
+        "status": "Pending",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "54",
+        "customer": "Customer 54",
+        "amount": 89,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "55",
+        "customer": "Customer 55",
+        "amount": 212,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "56",
+        "customer": "Customer 56",
+        "amount": 830,
+        "status": "Pending",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "57",
+        "customer": "Customer 57",
+        "amount": 1026,
+        "status": "Pending",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "58",
+        "customer": "Customer 58",
+        "amount": 709,
+        "status": "Shipped",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "59",
+        "customer": "Customer 59",
+        "amount": 460,
+        "status": "Completed",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "60",
+        "customer": "Customer 60",
+        "amount": 326,
+        "status": "Processing",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "61",
+        "customer": "Customer 61",
+        "amount": 948,
+        "status": "Shipped",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "62",
+        "customer": "Customer 62",
+        "amount": 555,
+        "status": "Completed",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "63",
+        "customer": "Customer 63",
+        "amount": 822,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "64",
+        "customer": "Customer 64",
+        "amount": 725,
+        "status": "Pending",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "65",
+        "customer": "Customer 65",
+        "amount": 253,
+        "status": "Shipped",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "66",
+        "customer": "Customer 66",
+        "amount": 466,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "67",
+        "customer": "Customer 67",
+        "amount": 334,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "68",
+        "customer": "Customer 68",
+        "amount": 772,
+        "status": "Shipped",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "69",
+        "customer": "Customer 69",
+        "amount": 258,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "70",
+        "customer": "Customer 70",
+        "amount": 253,
+        "status": "Processing",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "71",
+        "customer": "Customer 71",
+        "amount": 698,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "72",
+        "customer": "Customer 72",
+        "amount": 321,
+        "status": "Pending",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "73",
+        "customer": "Customer 73",
+        "amount": 741,
+        "status": "Shipped",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "74",
+        "customer": "Customer 74",
+        "amount": 928,
+        "status": "Completed",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "75",
+        "customer": "Customer 75",
+        "amount": 881,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "76",
+        "customer": "Customer 76",
+        "amount": 761,
+        "status": "Completed",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "77",
+        "customer": "Customer 77",
+        "amount": 943,
+        "status": "Pending",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "78",
+        "customer": "Customer 78",
+        "amount": 766,
+        "status": "Shipped",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "79",
+        "customer": "Customer 79",
+        "amount": 570,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "80",
+        "customer": "Customer 80",
+        "amount": 241,
+        "status": "Pending",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "81",
+        "customer": "Customer 81",
+        "amount": 431,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "82",
+        "customer": "Customer 82",
+        "amount": 1040,
+        "status": "Shipped",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "83",
+        "customer": "Customer 83",
+        "amount": 409,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "84",
+        "customer": "Customer 84",
+        "amount": 111,
+        "status": "Shipped",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "85",
+        "customer": "Customer 85",
+        "amount": 66,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "86",
+        "customer": "Customer 86",
+        "amount": 752,
+        "status": "Pending",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "87",
+        "customer": "Customer 87",
+        "amount": 445,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "88",
+        "customer": "Customer 88",
+        "amount": 827,
+        "status": "Completed",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "89",
+        "customer": "Customer 89",
+        "amount": 830,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "90",
+        "customer": "Customer 90",
+        "amount": 255,
+        "status": "Shipped",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "91",
+        "customer": "Customer 91",
+        "amount": 400,
+        "status": "Completed",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "92",
+        "customer": "Customer 92",
+        "amount": 827,
+        "status": "Shipped",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "93",
+        "customer": "Customer 93",
+        "amount": 891,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "94",
+        "customer": "Customer 94",
+        "amount": 650,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "95",
+        "customer": "Customer 95",
+        "amount": 600,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "96",
+        "customer": "Customer 96",
+        "amount": 721,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "97",
+        "customer": "Customer 97",
+        "amount": 164,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "98",
+        "customer": "Customer 98",
+        "amount": 911,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "99",
+        "customer": "Customer 99",
+        "amount": 961,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "100",
+        "customer": "Customer 100",
+        "amount": 1046,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "101",
+        "customer": "Customer 101",
+        "amount": 422,
+        "status": "Processing",
+        "date": "2024-08-27"
+      },
+      {
+        "id": "102",
+        "customer": "Customer 102",
+        "amount": 440,
+        "status": "Processing",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "103",
+        "customer": "Customer 103",
+        "amount": 166,
+        "status": "Completed",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "104",
+        "customer": "Customer 104",
+        "amount": 611,
+        "status": "Pending",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "105",
+        "customer": "Customer 105",
+        "amount": 206,
+        "status": "Pending",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "106",
+        "customer": "Customer 106",
+        "amount": 213,
+        "status": "Pending",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "107",
+        "customer": "Customer 107",
+        "amount": 904,
+        "status": "Shipped",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "108",
+        "customer": "Customer 108",
+        "amount": 926,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "109",
+        "customer": "Customer 109",
+        "amount": 262,
+        "status": "Shipped",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "110",
+        "customer": "Customer 110",
+        "amount": 973,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "111",
+        "customer": "Customer 111",
+        "amount": 634,
+        "status": "Shipped",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "112",
+        "customer": "Customer 112",
+        "amount": 295,
+        "status": "Completed",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "113",
+        "customer": "Customer 113",
+        "amount": 916,
+        "status": "Pending",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "114",
+        "customer": "Customer 114",
+        "amount": 571,
+        "status": "Pending",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "115",
+        "customer": "Customer 115",
+        "amount": 384,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "116",
+        "customer": "Customer 116",
+        "amount": 438,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "117",
+        "customer": "Customer 117",
+        "amount": 808,
+        "status": "Completed",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "118",
+        "customer": "Customer 118",
+        "amount": 490,
+        "status": "Processing",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "119",
+        "customer": "Customer 119",
+        "amount": 754,
+        "status": "Pending",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "120",
+        "customer": "Customer 120",
+        "amount": 326,
+        "status": "Processing",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "121",
+        "customer": "Customer 121",
+        "amount": 770,
+        "status": "Pending",
+        "date": "2024-08-27"
+      },
+      {
+        "id": "122",
+        "customer": "Customer 122",
+        "amount": 371,
+        "status": "Shipped",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "123",
+        "customer": "Customer 123",
+        "amount": 412,
+        "status": "Shipped",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "124",
+        "customer": "Customer 124",
+        "amount": 730,
+        "status": "Processing",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "125",
+        "customer": "Customer 125",
+        "amount": 291,
+        "status": "Processing",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "126",
+        "customer": "Customer 126",
+        "amount": 1030,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "127",
+        "customer": "Customer 127",
+        "amount": 70,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "128",
+        "customer": "Customer 128",
+        "amount": 403,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "129",
+        "customer": "Customer 129",
+        "amount": 562,
+        "status": "Completed",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "130",
+        "customer": "Customer 130",
+        "amount": 623,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "131",
+        "customer": "Customer 131",
+        "amount": 785,
+        "status": "Shipped",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "132",
+        "customer": "Customer 132",
+        "amount": 629,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "133",
+        "customer": "Customer 133",
+        "amount": 53,
+        "status": "Pending",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "134",
+        "customer": "Customer 134",
+        "amount": 552,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "135",
+        "customer": "Customer 135",
+        "amount": 63,
+        "status": "Pending",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "136",
+        "customer": "Customer 136",
+        "amount": 338,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "137",
+        "customer": "Customer 137",
+        "amount": 685,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "138",
+        "customer": "Customer 138",
+        "amount": 253,
+        "status": "Shipped",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "139",
+        "customer": "Customer 139",
+        "amount": 1031,
+        "status": "Shipped",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "140",
+        "customer": "Customer 140",
+        "amount": 532,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "141",
+        "customer": "Customer 141",
+        "amount": 567,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "142",
+        "customer": "Customer 142",
+        "amount": 102,
+        "status": "Pending",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "143",
+        "customer": "Customer 143",
+        "amount": 218,
+        "status": "Completed",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "144",
+        "customer": "Customer 144",
+        "amount": 379,
+        "status": "Completed",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "145",
+        "customer": "Customer 145",
+        "amount": 444,
+        "status": "Pending",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "146",
+        "customer": "Customer 146",
+        "amount": 906,
+        "status": "Completed",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "147",
+        "customer": "Customer 147",
+        "amount": 783,
+        "status": "Processing",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "148",
+        "customer": "Customer 148",
+        "amount": 140,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "149",
+        "customer": "Customer 149",
+        "amount": 720,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "150",
+        "customer": "Customer 150",
+        "amount": 257,
+        "status": "Pending",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "151",
+        "customer": "Customer 151",
+        "amount": 387,
+        "status": "Pending",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "152",
+        "customer": "Customer 152",
+        "amount": 164,
+        "status": "Completed",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "153",
+        "customer": "Customer 153",
+        "amount": 438,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "154",
+        "customer": "Customer 154",
+        "amount": 616,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "155",
+        "customer": "Customer 155",
+        "amount": 665,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "156",
+        "customer": "Customer 156",
+        "amount": 652,
+        "status": "Processing",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "157",
+        "customer": "Customer 157",
+        "amount": 530,
+        "status": "Pending",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "158",
+        "customer": "Customer 158",
+        "amount": 617,
+        "status": "Shipped",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "159",
+        "customer": "Customer 159",
+        "amount": 695,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "160",
+        "customer": "Customer 160",
+        "amount": 154,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "161",
+        "customer": "Customer 161",
+        "amount": 932,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "162",
+        "customer": "Customer 162",
+        "amount": 889,
+        "status": "Shipped",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "163",
+        "customer": "Customer 163",
+        "amount": 1014,
+        "status": "Processing",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "164",
+        "customer": "Customer 164",
+        "amount": 641,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "165",
+        "customer": "Customer 165",
+        "amount": 294,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "166",
+        "customer": "Customer 166",
+        "amount": 662,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "167",
+        "customer": "Customer 167",
+        "amount": 437,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "168",
+        "customer": "Customer 168",
+        "amount": 128,
+        "status": "Pending",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "169",
+        "customer": "Customer 169",
+        "amount": 808,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "170",
+        "customer": "Customer 170",
+        "amount": 257,
+        "status": "Completed",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "171",
+        "customer": "Customer 171",
+        "amount": 356,
+        "status": "Pending",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "172",
+        "customer": "Customer 172",
+        "amount": 886,
+        "status": "Completed",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "173",
+        "customer": "Customer 173",
+        "amount": 484,
+        "status": "Shipped",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "174",
+        "customer": "Customer 174",
+        "amount": 244,
+        "status": "Completed",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "175",
+        "customer": "Customer 175",
+        "amount": 369,
+        "status": "Completed",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "176",
+        "customer": "Customer 176",
+        "amount": 584,
+        "status": "Pending",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "177",
+        "customer": "Customer 177",
+        "amount": 199,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "178",
+        "customer": "Customer 178",
+        "amount": 514,
+        "status": "Processing",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "179",
+        "customer": "Customer 179",
+        "amount": 998,
+        "status": "Processing",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "180",
+        "customer": "Customer 180",
+        "amount": 609,
+        "status": "Processing",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "181",
+        "customer": "Customer 181",
+        "amount": 1010,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "182",
+        "customer": "Customer 182",
+        "amount": 363,
+        "status": "Pending",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "183",
+        "customer": "Customer 183",
+        "amount": 263,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "184",
+        "customer": "Customer 184",
+        "amount": 381,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "185",
+        "customer": "Customer 185",
+        "amount": 277,
+        "status": "Completed",
+        "date": "2024-08-27"
+      },
+      {
+        "id": "186",
+        "customer": "Customer 186",
+        "amount": 562,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "187",
+        "customer": "Customer 187",
+        "amount": 310,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "188",
+        "customer": "Customer 188",
+        "amount": 125,
+        "status": "Pending",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "189",
+        "customer": "Customer 189",
+        "amount": 496,
+        "status": "Processing",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "190",
+        "customer": "Customer 190",
+        "amount": 893,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "191",
+        "customer": "Customer 191",
+        "amount": 875,
+        "status": "Shipped",
+        "date": "2024-08-27"
+      },
+      {
+        "id": "192",
+        "customer": "Customer 192",
+        "amount": 732,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "193",
+        "customer": "Customer 193",
+        "amount": 51,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "194",
+        "customer": "Customer 194",
+        "amount": 596,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "195",
+        "customer": "Customer 195",
+        "amount": 425,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "196",
+        "customer": "Customer 196",
+        "amount": 406,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "197",
+        "customer": "Customer 197",
+        "amount": 664,
+        "status": "Processing",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "198",
+        "customer": "Customer 198",
+        "amount": 578,
+        "status": "Completed",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "199",
+        "customer": "Customer 199",
+        "amount": 414,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "200",
+        "customer": "Customer 200",
+        "amount": 860,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "201",
+        "customer": "Customer 201",
+        "amount": 898,
+        "status": "Processing",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "202",
+        "customer": "Customer 202",
+        "amount": 473,
+        "status": "Processing",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "203",
+        "customer": "Customer 203",
+        "amount": 90,
+        "status": "Shipped",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "204",
+        "customer": "Customer 204",
+        "amount": 603,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "205",
+        "customer": "Customer 205",
+        "amount": 826,
+        "status": "Pending",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "206",
+        "customer": "Customer 206",
+        "amount": 81,
+        "status": "Completed",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "207",
+        "customer": "Customer 207",
+        "amount": 951,
+        "status": "Processing",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "208",
+        "customer": "Customer 208",
+        "amount": 790,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "209",
+        "customer": "Customer 209",
+        "amount": 101,
+        "status": "Shipped",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "210",
+        "customer": "Customer 210",
+        "amount": 736,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "211",
+        "customer": "Customer 211",
+        "amount": 641,
+        "status": "Completed",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "212",
+        "customer": "Customer 212",
+        "amount": 489,
+        "status": "Processing",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "213",
+        "customer": "Customer 213",
+        "amount": 494,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "214",
+        "customer": "Customer 214",
+        "amount": 310,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "215",
+        "customer": "Customer 215",
+        "amount": 772,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "216",
+        "customer": "Customer 216",
+        "amount": 842,
+        "status": "Pending",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "217",
+        "customer": "Customer 217",
+        "amount": 466,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "218",
+        "customer": "Customer 218",
+        "amount": 136,
+        "status": "Pending",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "219",
+        "customer": "Customer 219",
+        "amount": 483,
+        "status": "Pending",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "220",
+        "customer": "Customer 220",
+        "amount": 608,
+        "status": "Shipped",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "221",
+        "customer": "Customer 221",
+        "amount": 907,
+        "status": "Pending",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "222",
+        "customer": "Customer 222",
+        "amount": 863,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "223",
+        "customer": "Customer 223",
+        "amount": 73,
+        "status": "Completed",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "224",
+        "customer": "Customer 224",
+        "amount": 341,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "225",
+        "customer": "Customer 225",
+        "amount": 406,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "226",
+        "customer": "Customer 226",
+        "amount": 376,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "227",
+        "customer": "Customer 227",
+        "amount": 642,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "228",
+        "customer": "Customer 228",
+        "amount": 417,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "229",
+        "customer": "Customer 229",
+        "amount": 169,
+        "status": "Shipped",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "230",
+        "customer": "Customer 230",
+        "amount": 523,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "231",
+        "customer": "Customer 231",
+        "amount": 250,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "232",
+        "customer": "Customer 232",
+        "amount": 415,
+        "status": "Completed",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "233",
+        "customer": "Customer 233",
+        "amount": 399,
+        "status": "Pending",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "234",
+        "customer": "Customer 234",
+        "amount": 801,
+        "status": "Processing",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "235",
+        "customer": "Customer 235",
+        "amount": 430,
+        "status": "Completed",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "236",
+        "customer": "Customer 236",
+        "amount": 499,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "237",
+        "customer": "Customer 237",
+        "amount": 768,
+        "status": "Processing",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "238",
+        "customer": "Customer 238",
+        "amount": 534,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "239",
+        "customer": "Customer 239",
+        "amount": 110,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "240",
+        "customer": "Customer 240",
+        "amount": 853,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "241",
+        "customer": "Customer 241",
+        "amount": 277,
+        "status": "Completed",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "242",
+        "customer": "Customer 242",
+        "amount": 703,
+        "status": "Shipped",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "243",
+        "customer": "Customer 243",
+        "amount": 722,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "244",
+        "customer": "Customer 244",
+        "amount": 222,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "245",
+        "customer": "Customer 245",
+        "amount": 957,
+        "status": "Shipped",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "246",
+        "customer": "Customer 246",
+        "amount": 247,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "247",
+        "customer": "Customer 247",
+        "amount": 106,
+        "status": "Pending",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "248",
+        "customer": "Customer 248",
+        "amount": 483,
+        "status": "Processing",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "249",
+        "customer": "Customer 249",
+        "amount": 234,
+        "status": "Processing",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "250",
+        "customer": "Customer 250",
+        "amount": 94,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "251",
+        "customer": "Customer 251",
+        "amount": 869,
+        "status": "Processing",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "252",
+        "customer": "Customer 252",
+        "amount": 72,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "253",
+        "customer": "Customer 253",
+        "amount": 676,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "254",
+        "customer": "Customer 254",
+        "amount": 240,
+        "status": "Pending",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "255",
+        "customer": "Customer 255",
+        "amount": 867,
+        "status": "Pending",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "256",
+        "customer": "Customer 256",
+        "amount": 357,
+        "status": "Processing",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "257",
+        "customer": "Customer 257",
+        "amount": 946,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "258",
+        "customer": "Customer 258",
+        "amount": 1017,
+        "status": "Shipped",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "259",
+        "customer": "Customer 259",
+        "amount": 716,
+        "status": "Pending",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "260",
+        "customer": "Customer 260",
+        "amount": 665,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "261",
+        "customer": "Customer 261",
+        "amount": 886,
+        "status": "Processing",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "262",
+        "customer": "Customer 262",
+        "amount": 840,
+        "status": "Completed",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "263",
+        "customer": "Customer 263",
+        "amount": 790,
+        "status": "Pending",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "264",
+        "customer": "Customer 264",
+        "amount": 331,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "265",
+        "customer": "Customer 265",
+        "amount": 167,
+        "status": "Shipped",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "266",
+        "customer": "Customer 266",
+        "amount": 118,
+        "status": "Completed",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "267",
+        "customer": "Customer 267",
+        "amount": 971,
+        "status": "Completed",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "268",
+        "customer": "Customer 268",
+        "amount": 839,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "269",
+        "customer": "Customer 269",
+        "amount": 583,
+        "status": "Pending",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "270",
+        "customer": "Customer 270",
+        "amount": 495,
+        "status": "Shipped",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "271",
+        "customer": "Customer 271",
+        "amount": 245,
+        "status": "Shipped",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "272",
+        "customer": "Customer 272",
+        "amount": 447,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "273",
+        "customer": "Customer 273",
+        "amount": 202,
+        "status": "Completed",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "274",
+        "customer": "Customer 274",
+        "amount": 861,
+        "status": "Processing",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "275",
+        "customer": "Customer 275",
+        "amount": 744,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "276",
+        "customer": "Customer 276",
+        "amount": 80,
+        "status": "Completed",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "277",
+        "customer": "Customer 277",
+        "amount": 863,
+        "status": "Pending",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "278",
+        "customer": "Customer 278",
+        "amount": 626,
+        "status": "Shipped",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "279",
+        "customer": "Customer 279",
+        "amount": 517,
+        "status": "Completed",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "280",
+        "customer": "Customer 280",
+        "amount": 237,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "281",
+        "customer": "Customer 281",
+        "amount": 560,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "282",
+        "customer": "Customer 282",
+        "amount": 440,
+        "status": "Processing",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "283",
+        "customer": "Customer 283",
+        "amount": 765,
+        "status": "Shipped",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "284",
+        "customer": "Customer 284",
+        "amount": 1008,
+        "status": "Processing",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "285",
+        "customer": "Customer 285",
+        "amount": 720,
+        "status": "Shipped",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "286",
+        "customer": "Customer 286",
+        "amount": 767,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "287",
+        "customer": "Customer 287",
+        "amount": 451,
+        "status": "Pending",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "288",
+        "customer": "Customer 288",
+        "amount": 265,
+        "status": "Completed",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "289",
+        "customer": "Customer 289",
+        "amount": 953,
+        "status": "Completed",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "290",
+        "customer": "Customer 290",
+        "amount": 497,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "291",
+        "customer": "Customer 291",
+        "amount": 1040,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "292",
+        "customer": "Customer 292",
+        "amount": 741,
+        "status": "Completed",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "293",
+        "customer": "Customer 293",
+        "amount": 798,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "294",
+        "customer": "Customer 294",
+        "amount": 163,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "295",
+        "customer": "Customer 295",
+        "amount": 205,
+        "status": "Pending",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "296",
+        "customer": "Customer 296",
+        "amount": 159,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "297",
+        "customer": "Customer 297",
+        "amount": 254,
+        "status": "Completed",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "298",
+        "customer": "Customer 298",
+        "amount": 808,
+        "status": "Processing",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "299",
+        "customer": "Customer 299",
+        "amount": 940,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "300",
+        "customer": "Customer 300",
+        "amount": 680,
+        "status": "Completed",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "301",
+        "customer": "Customer 301",
+        "amount": 701,
+        "status": "Completed",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "302",
+        "customer": "Customer 302",
+        "amount": 929,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "303",
+        "customer": "Customer 303",
+        "amount": 748,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "304",
+        "customer": "Customer 304",
+        "amount": 314,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "305",
+        "customer": "Customer 305",
+        "amount": 972,
+        "status": "Completed",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "306",
+        "customer": "Customer 306",
+        "amount": 1048,
+        "status": "Processing",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "307",
+        "customer": "Customer 307",
+        "amount": 1012,
+        "status": "Pending",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "308",
+        "customer": "Customer 308",
+        "amount": 832,
+        "status": "Shipped",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "309",
+        "customer": "Customer 309",
+        "amount": 753,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "310",
+        "customer": "Customer 310",
+        "amount": 612,
+        "status": "Pending",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "311",
+        "customer": "Customer 311",
+        "amount": 963,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "312",
+        "customer": "Customer 312",
+        "amount": 106,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "313",
+        "customer": "Customer 313",
+        "amount": 150,
+        "status": "Completed",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "314",
+        "customer": "Customer 314",
+        "amount": 850,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "315",
+        "customer": "Customer 315",
+        "amount": 895,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "316",
+        "customer": "Customer 316",
+        "amount": 851,
+        "status": "Completed",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "317",
+        "customer": "Customer 317",
+        "amount": 803,
+        "status": "Pending",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "318",
+        "customer": "Customer 318",
+        "amount": 247,
+        "status": "Pending",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "319",
+        "customer": "Customer 319",
+        "amount": 133,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "320",
+        "customer": "Customer 320",
+        "amount": 350,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "321",
+        "customer": "Customer 321",
+        "amount": 496,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "322",
+        "customer": "Customer 322",
+        "amount": 575,
+        "status": "Completed",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "323",
+        "customer": "Customer 323",
+        "amount": 904,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "324",
+        "customer": "Customer 324",
+        "amount": 310,
+        "status": "Processing",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "325",
+        "customer": "Customer 325",
+        "amount": 98,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "326",
+        "customer": "Customer 326",
+        "amount": 64,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "327",
+        "customer": "Customer 327",
+        "amount": 541,
+        "status": "Completed",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "328",
+        "customer": "Customer 328",
+        "amount": 283,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "329",
+        "customer": "Customer 329",
+        "amount": 803,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "330",
+        "customer": "Customer 330",
+        "amount": 963,
+        "status": "Completed",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "331",
+        "customer": "Customer 331",
+        "amount": 960,
+        "status": "Processing",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "332",
+        "customer": "Customer 332",
+        "amount": 926,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "333",
+        "customer": "Customer 333",
+        "amount": 748,
+        "status": "Processing",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "334",
+        "customer": "Customer 334",
+        "amount": 669,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "335",
+        "customer": "Customer 335",
+        "amount": 220,
+        "status": "Shipped",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "336",
+        "customer": "Customer 336",
+        "amount": 199,
+        "status": "Shipped",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "337",
+        "customer": "Customer 337",
+        "amount": 1022,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "338",
+        "customer": "Customer 338",
+        "amount": 144,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "339",
+        "customer": "Customer 339",
+        "amount": 778,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "340",
+        "customer": "Customer 340",
+        "amount": 635,
+        "status": "Processing",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "341",
+        "customer": "Customer 341",
+        "amount": 799,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "342",
+        "customer": "Customer 342",
+        "amount": 333,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "343",
+        "customer": "Customer 343",
+        "amount": 705,
+        "status": "Processing",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "344",
+        "customer": "Customer 344",
+        "amount": 270,
+        "status": "Processing",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "345",
+        "customer": "Customer 345",
+        "amount": 682,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "346",
+        "customer": "Customer 346",
+        "amount": 411,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "347",
+        "customer": "Customer 347",
+        "amount": 720,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "348",
+        "customer": "Customer 348",
+        "amount": 370,
+        "status": "Processing",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "349",
+        "customer": "Customer 349",
+        "amount": 1001,
+        "status": "Shipped",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "350",
+        "customer": "Customer 350",
+        "amount": 778,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "351",
+        "customer": "Customer 351",
+        "amount": 228,
+        "status": "Processing",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "352",
+        "customer": "Customer 352",
+        "amount": 349,
+        "status": "Completed",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "353",
+        "customer": "Customer 353",
+        "amount": 710,
+        "status": "Completed",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "354",
+        "customer": "Customer 354",
+        "amount": 461,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "355",
+        "customer": "Customer 355",
+        "amount": 350,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "356",
+        "customer": "Customer 356",
+        "amount": 388,
+        "status": "Processing",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "357",
+        "customer": "Customer 357",
+        "amount": 982,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "358",
+        "customer": "Customer 358",
+        "amount": 387,
+        "status": "Shipped",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "359",
+        "customer": "Customer 359",
+        "amount": 101,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "360",
+        "customer": "Customer 360",
+        "amount": 110,
+        "status": "Shipped",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "361",
+        "customer": "Customer 361",
+        "amount": 474,
+        "status": "Shipped",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "362",
+        "customer": "Customer 362",
+        "amount": 210,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "363",
+        "customer": "Customer 363",
+        "amount": 190,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "364",
+        "customer": "Customer 364",
+        "amount": 354,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "365",
+        "customer": "Customer 365",
+        "amount": 312,
+        "status": "Completed",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "366",
+        "customer": "Customer 366",
+        "amount": 386,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "367",
+        "customer": "Customer 367",
+        "amount": 701,
+        "status": "Shipped",
+        "date": "2024-09-11"
+      },
+      {
+        "id": "368",
+        "customer": "Customer 368",
+        "amount": 594,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "369",
+        "customer": "Customer 369",
+        "amount": 611,
+        "status": "Pending",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "370",
+        "customer": "Customer 370",
+        "amount": 237,
+        "status": "Completed",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "371",
+        "customer": "Customer 371",
+        "amount": 517,
+        "status": "Completed",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "372",
+        "customer": "Customer 372",
+        "amount": 667,
+        "status": "Pending",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "373",
+        "customer": "Customer 373",
+        "amount": 495,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "374",
+        "customer": "Customer 374",
+        "amount": 803,
+        "status": "Shipped",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "375",
+        "customer": "Customer 375",
+        "amount": 847,
+        "status": "Pending",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "376",
+        "customer": "Customer 376",
+        "amount": 779,
+        "status": "Processing",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "377",
+        "customer": "Customer 377",
+        "amount": 792,
+        "status": "Completed",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "378",
+        "customer": "Customer 378",
+        "amount": 261,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "379",
+        "customer": "Customer 379",
+        "amount": 360,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "380",
+        "customer": "Customer 380",
+        "amount": 621,
+        "status": "Pending",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "381",
+        "customer": "Customer 381",
+        "amount": 956,
+        "status": "Pending",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "382",
+        "customer": "Customer 382",
+        "amount": 638,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "383",
+        "customer": "Customer 383",
+        "amount": 517,
+        "status": "Processing",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "384",
+        "customer": "Customer 384",
+        "amount": 137,
+        "status": "Pending",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "385",
+        "customer": "Customer 385",
+        "amount": 151,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "386",
+        "customer": "Customer 386",
+        "amount": 386,
+        "status": "Shipped",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "387",
+        "customer": "Customer 387",
+        "amount": 704,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "388",
+        "customer": "Customer 388",
+        "amount": 873,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "389",
+        "customer": "Customer 389",
+        "amount": 948,
+        "status": "Shipped",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "390",
+        "customer": "Customer 390",
+        "amount": 1023,
+        "status": "Processing",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "391",
+        "customer": "Customer 391",
+        "amount": 579,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "392",
+        "customer": "Customer 392",
+        "amount": 340,
+        "status": "Processing",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "393",
+        "customer": "Customer 393",
+        "amount": 803,
+        "status": "Pending",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "394",
+        "customer": "Customer 394",
+        "amount": 195,
+        "status": "Pending",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "395",
+        "customer": "Customer 395",
+        "amount": 600,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "396",
+        "customer": "Customer 396",
+        "amount": 188,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "397",
+        "customer": "Customer 397",
+        "amount": 333,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "398",
+        "customer": "Customer 398",
+        "amount": 883,
+        "status": "Shipped",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "399",
+        "customer": "Customer 399",
+        "amount": 965,
+        "status": "Pending",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "400",
+        "customer": "Customer 400",
+        "amount": 716,
+        "status": "Processing",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "401",
+        "customer": "Customer 401",
+        "amount": 232,
+        "status": "Completed",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "402",
+        "customer": "Customer 402",
+        "amount": 197,
+        "status": "Completed",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "403",
+        "customer": "Customer 403",
+        "amount": 391,
+        "status": "Processing",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "404",
+        "customer": "Customer 404",
+        "amount": 404,
+        "status": "Shipped",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "405",
+        "customer": "Customer 405",
+        "amount": 440,
+        "status": "Completed",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "406",
+        "customer": "Customer 406",
+        "amount": 796,
+        "status": "Shipped",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "407",
+        "customer": "Customer 407",
+        "amount": 205,
+        "status": "Processing",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "408",
+        "customer": "Customer 408",
+        "amount": 316,
+        "status": "Shipped",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "409",
+        "customer": "Customer 409",
+        "amount": 737,
+        "status": "Shipped",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "410",
+        "customer": "Customer 410",
+        "amount": 408,
+        "status": "Pending",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "411",
+        "customer": "Customer 411",
+        "amount": 597,
+        "status": "Processing",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "412",
+        "customer": "Customer 412",
+        "amount": 298,
+        "status": "Shipped",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "413",
+        "customer": "Customer 413",
+        "amount": 676,
+        "status": "Completed",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "414",
+        "customer": "Customer 414",
+        "amount": 503,
+        "status": "Processing",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "415",
+        "customer": "Customer 415",
+        "amount": 952,
+        "status": "Processing",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "416",
+        "customer": "Customer 416",
+        "amount": 120,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "417",
+        "customer": "Customer 417",
+        "amount": 218,
+        "status": "Completed",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "418",
+        "customer": "Customer 418",
+        "amount": 452,
+        "status": "Shipped",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "419",
+        "customer": "Customer 419",
+        "amount": 304,
+        "status": "Pending",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "420",
+        "customer": "Customer 420",
+        "amount": 111,
+        "status": "Pending",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "421",
+        "customer": "Customer 421",
+        "amount": 659,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "422",
+        "customer": "Customer 422",
+        "amount": 369,
+        "status": "Processing",
+        "date": "2024-09-05"
+      },
+      {
+        "id": "423",
+        "customer": "Customer 423",
+        "amount": 480,
+        "status": "Shipped",
+        "date": "2024-09-15"
+      },
+      {
+        "id": "424",
+        "customer": "Customer 424",
+        "amount": 641,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "425",
+        "customer": "Customer 425",
+        "amount": 790,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "426",
+        "customer": "Customer 426",
+        "amount": 646,
+        "status": "Processing",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "427",
+        "customer": "Customer 427",
+        "amount": 464,
+        "status": "Shipped",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "428",
+        "customer": "Customer 428",
+        "amount": 310,
+        "status": "Completed",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "429",
+        "customer": "Customer 429",
+        "amount": 404,
+        "status": "Shipped",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "430",
+        "customer": "Customer 430",
+        "amount": 953,
+        "status": "Completed",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "431",
+        "customer": "Customer 431",
+        "amount": 896,
+        "status": "Processing",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "432",
+        "customer": "Customer 432",
+        "amount": 681,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "433",
+        "customer": "Customer 433",
+        "amount": 992,
+        "status": "Shipped",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "434",
+        "customer": "Customer 434",
+        "amount": 109,
+        "status": "Processing",
+        "date": "2024-09-26"
+      },
+      {
+        "id": "435",
+        "customer": "Customer 435",
+        "amount": 1001,
+        "status": "Completed",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "436",
+        "customer": "Customer 436",
+        "amount": 835,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "437",
+        "customer": "Customer 437",
+        "amount": 806,
+        "status": "Pending",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "438",
+        "customer": "Customer 438",
+        "amount": 159,
+        "status": "Processing",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "439",
+        "customer": "Customer 439",
+        "amount": 109,
+        "status": "Processing",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "440",
+        "customer": "Customer 440",
+        "amount": 220,
+        "status": "Pending",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "441",
+        "customer": "Customer 441",
+        "amount": 923,
+        "status": "Shipped",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "442",
+        "customer": "Customer 442",
+        "amount": 868,
+        "status": "Pending",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "443",
+        "customer": "Customer 443",
+        "amount": 760,
+        "status": "Processing",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "444",
+        "customer": "Customer 444",
+        "amount": 162,
+        "status": "Completed",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "445",
+        "customer": "Customer 445",
+        "amount": 728,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "446",
+        "customer": "Customer 446",
+        "amount": 659,
+        "status": "Pending",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "447",
+        "customer": "Customer 447",
+        "amount": 122,
+        "status": "Completed",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "448",
+        "customer": "Customer 448",
+        "amount": 157,
+        "status": "Processing",
+        "date": "2024-09-13"
+      },
+      {
+        "id": "449",
+        "customer": "Customer 449",
+        "amount": 919,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "450",
+        "customer": "Customer 450",
+        "amount": 1023,
+        "status": "Processing",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "451",
+        "customer": "Customer 451",
+        "amount": 981,
+        "status": "Completed",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "452",
+        "customer": "Customer 452",
+        "amount": 222,
+        "status": "Shipped",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "453",
+        "customer": "Customer 453",
+        "amount": 528,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "454",
+        "customer": "Customer 454",
+        "amount": 439,
+        "status": "Completed",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "455",
+        "customer": "Customer 455",
+        "amount": 394,
+        "status": "Pending",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "456",
+        "customer": "Customer 456",
+        "amount": 379,
+        "status": "Processing",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "457",
+        "customer": "Customer 457",
+        "amount": 949,
+        "status": "Processing",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "458",
+        "customer": "Customer 458",
+        "amount": 839,
+        "status": "Completed",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "459",
+        "customer": "Customer 459",
+        "amount": 213,
+        "status": "Processing",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "460",
+        "customer": "Customer 460",
+        "amount": 637,
+        "status": "Shipped",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "461",
+        "customer": "Customer 461",
+        "amount": 924,
+        "status": "Shipped",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "462",
+        "customer": "Customer 462",
+        "amount": 121,
+        "status": "Pending",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "463",
+        "customer": "Customer 463",
+        "amount": 690,
+        "status": "Pending",
+        "date": "2024-09-21"
+      },
+      {
+        "id": "464",
+        "customer": "Customer 464",
+        "amount": 723,
+        "status": "Pending",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "465",
+        "customer": "Customer 465",
+        "amount": 863,
+        "status": "Shipped",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "466",
+        "customer": "Customer 466",
+        "amount": 817,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "467",
+        "customer": "Customer 467",
+        "amount": 355,
+        "status": "Shipped",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "468",
+        "customer": "Customer 468",
+        "amount": 191,
+        "status": "Shipped",
+        "date": "2024-09-12"
+      },
+      {
+        "id": "469",
+        "customer": "Customer 469",
+        "amount": 886,
+        "status": "Pending",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "470",
+        "customer": "Customer 470",
+        "amount": 997,
+        "status": "Processing",
+        "date": "2024-09-23"
+      },
+      {
+        "id": "471",
+        "customer": "Customer 471",
+        "amount": 443,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "472",
+        "customer": "Customer 472",
+        "amount": 756,
+        "status": "Pending",
+        "date": "2024-09-19"
+      },
+      {
+        "id": "473",
+        "customer": "Customer 473",
+        "amount": 62,
+        "status": "Pending",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "474",
+        "customer": "Customer 474",
+        "amount": 421,
+        "status": "Shipped",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "475",
+        "customer": "Customer 475",
+        "amount": 761,
+        "status": "Shipped",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "476",
+        "customer": "Customer 476",
+        "amount": 267,
+        "status": "Pending",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "477",
+        "customer": "Customer 477",
+        "amount": 373,
+        "status": "Shipped",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "478",
+        "customer": "Customer 478",
+        "amount": 179,
+        "status": "Shipped",
+        "date": "2024-09-20"
+      },
+      {
+        "id": "479",
+        "customer": "Customer 479",
+        "amount": 601,
+        "status": "Shipped",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "480",
+        "customer": "Customer 480",
+        "amount": 456,
+        "status": "Completed",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "481",
+        "customer": "Customer 481",
+        "amount": 241,
+        "status": "Pending",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "482",
+        "customer": "Customer 482",
+        "amount": 705,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "483",
+        "customer": "Customer 483",
+        "amount": 284,
+        "status": "Shipped",
+        "date": "2024-08-29"
+      },
+      {
+        "id": "484",
+        "customer": "Customer 484",
+        "amount": 1012,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "485",
+        "customer": "Customer 485",
+        "amount": 808,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "486",
+        "customer": "Customer 486",
+        "amount": 97,
+        "status": "Processing",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "487",
+        "customer": "Customer 487",
+        "amount": 212,
+        "status": "Completed",
+        "date": "2024-09-03"
+      },
+      {
+        "id": "488",
+        "customer": "Customer 488",
+        "amount": 665,
+        "status": "Shipped",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "489",
+        "customer": "Customer 489",
+        "amount": 311,
+        "status": "Pending",
+        "date": "2024-09-17"
+      },
+      {
+        "id": "490",
+        "customer": "Customer 490",
+        "amount": 929,
+        "status": "Processing",
+        "date": "2024-09-08"
+      },
+      {
+        "id": "491",
+        "customer": "Customer 491",
+        "amount": 177,
+        "status": "Completed",
+        "date": "2024-08-28"
+      },
+      {
+        "id": "492",
+        "customer": "Customer 492",
+        "amount": 380,
+        "status": "Pending",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "493",
+        "customer": "Customer 493",
+        "amount": 133,
+        "status": "Pending",
+        "date": "2024-09-24"
+      },
+      {
+        "id": "494",
+        "customer": "Customer 494",
+        "amount": 854,
+        "status": "Processing",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "495",
+        "customer": "Customer 495",
+        "amount": 894,
+        "status": "Processing",
+        "date": "2024-09-01"
+      },
+      {
+        "id": "496",
+        "customer": "Customer 496",
+        "amount": 510,
+        "status": "Processing",
+        "date": "2024-09-10"
+      },
+      {
+        "id": "497",
+        "customer": "Customer 497",
+        "amount": 992,
+        "status": "Processing",
+        "date": "2024-08-30"
+      },
+      {
+        "id": "498",
+        "customer": "Customer 498",
+        "amount": 605,
+        "status": "Pending",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "499",
+        "customer": "Customer 499",
+        "amount": 216,
+        "status": "Completed",
+        "date": "2024-09-16"
+      },
+      {
+        "id": "500",
+        "customer": "Customer 500",
+        "amount": 559,
+        "status": "Completed",
+        "date": "2024-09-14"
+      }
+    ]
+  ],
+  "sales": [
+    {
+      "date": "2023-05-16",
+      "sales": 1499,
+      "conversions": 85,
+      "sessions": 788,
+      "winRate": 0.5486719563427473,
+      "lossRate": 0.33859698171266533
+    },
+    {
+      "date": "2023-05-17",
+      "sales": 2729,
+      "conversions": 96,
+      "sessions": 909,
+      "winRate": 0.4039669773189249,
+      "lossRate": 0.22427842397680495
+    },
+    {
+      "date": "2023-05-18",
+      "sales": 8370,
+      "conversions": 99,
+      "sessions": 1014,
+      "winRate": 0.5713609654556214,
+      "lossRate": 0.24658310514778106
+    },
+    {
+      "date": "2023-05-19",
+      "sales": 4368,
+      "conversions": 33,
+      "sessions": 560,
+      "winRate": 0.45573096363065946,
+      "lossRate": 0.2547040571199169
+    },
+    {
+      "date": "2023-05-20",
+      "sales": 7104,
+      "conversions": 32,
+      "sessions": 422,
+      "winRate": 0.44800632797089174,
+      "lossRate": 0.22601233260839737
+    },
+    {
+      "date": "2023-05-21",
+      "sales": 10020,
+      "conversions": 99,
+      "sessions": 837,
+      "winRate": 0.4763890557397077,
+      "lossRate": 0.32797187556652074
+    },
+    {
+      "date": "2023-05-22",
+      "sales": 10927,
+      "conversions": 26,
+      "sessions": 672,
+      "winRate": 0.40436908572001257,
+      "lossRate": 0.3894041394385465
+    },
+    {
+      "date": "2023-05-23",
+      "sales": 5298,
+      "conversions": 27,
+      "sessions": 498,
+      "winRate": 0.46959967774713185,
+      "lossRate": 0.2575810303328167
+    },
+    {
+      "date": "2023-05-24",
+      "sales": 3035,
+      "conversions": 10,
+      "sessions": 297,
+      "winRate": 0.44375479302588494,
+      "lossRate": 0.34212407464632144
+    },
+    {
+      "date": "2023-05-25",
+      "sales": 4984,
+      "conversions": 42,
+      "sessions": 182,
+      "winRate": 0.46700508777172534,
+      "lossRate": 0.346948241887827
+    },
+    {
+      "date": "2023-05-26",
+      "sales": 6402,
+      "conversions": 37,
+      "sessions": 1025,
+      "winRate": 0.509482172871905,
+      "lossRate": 0.35262397858593175
+    },
+    {
+      "date": "2023-05-27",
+      "sales": 2155,
+      "conversions": 74,
+      "sessions": 942,
+      "winRate": 0.44585848536359235,
+      "lossRate": 0.29098366734982034
+    },
+    {
+      "date": "2023-05-28",
+      "sales": 7542,
+      "conversions": 46,
+      "sessions": 214,
+      "winRate": 0.5789834176182537,
+      "lossRate": 0.30236748413761116
+    },
+    {
+      "date": "2023-05-29",
+      "sales": 2911,
+      "conversions": 56,
+      "sessions": 528,
+      "winRate": 0.5144204743495971,
+      "lossRate": 0.3432172842965713
+    },
+    {
+      "date": "2023-05-30",
+      "sales": 10434,
+      "conversions": 12,
+      "sessions": 1042,
+      "winRate": 0.4186932534323206,
+      "lossRate": 0.2857253442580707
+    },
+    {
+      "date": "2023-05-31",
+      "sales": 9717,
+      "conversions": 71,
+      "sessions": 473,
+      "winRate": 0.5976244032246157,
+      "lossRate": 0.38235316966496574
+    },
+    {
+      "date": "2023-06-01",
+      "sales": 9774,
+      "conversions": 58,
+      "sessions": 392,
+      "winRate": 0.491978651603632,
+      "lossRate": 0.3729674073104936
+    },
+    {
+      "date": "2023-06-02",
+      "sales": 9798,
+      "conversions": 21,
+      "sessions": 252,
+      "winRate": 0.42537498728141004,
+      "lossRate": 0.3751655555661329
+    },
+    {
+      "date": "2023-06-03",
+      "sales": 1695,
+      "conversions": 48,
+      "sessions": 191,
+      "winRate": 0.5754654547073823,
+      "lossRate": 0.38509347691468754
+    },
+    {
+      "date": "2023-06-04",
+      "sales": 7835,
+      "conversions": 79,
+      "sessions": 736,
+      "winRate": 0.4257839247663287,
+      "lossRate": 0.33973610855642633
+    },
+    {
+      "date": "2023-06-05",
+      "sales": 2111,
+      "conversions": 94,
+      "sessions": 929,
+      "winRate": 0.4915222993153704,
+      "lossRate": 0.26965696741527206
+    },
+    {
+      "date": "2023-06-06",
+      "sales": 4902,
+      "conversions": 24,
+      "sessions": 563,
+      "winRate": 0.5702103028928633,
+      "lossRate": 0.20352865865300443
+    },
+    {
+      "date": "2023-06-07",
+      "sales": 9677,
+      "conversions": 95,
+      "sessions": 128,
+      "winRate": 0.4189863389271533,
+      "lossRate": 0.3525344338437062
+    },
+    {
+      "date": "2023-06-08",
+      "sales": 4388,
+      "conversions": 54,
+      "sessions": 716,
+      "winRate": 0.441590568038992,
+      "lossRate": 0.3923805802053495
+    },
+    {
+      "date": "2023-06-09",
+      "sales": 4795,
+      "conversions": 20,
+      "sessions": 429,
+      "winRate": 0.4438098540681391,
+      "lossRate": 0.2301974843199929
+    },
+    {
+      "date": "2023-06-10",
+      "sales": 3523,
+      "conversions": 46,
+      "sessions": 383,
+      "winRate": 0.5043008224570427,
+      "lossRate": 0.39429901146141516
+    },
+    {
+      "date": "2023-06-11",
+      "sales": 3581,
+      "conversions": 81,
+      "sessions": 752,
+      "winRate": 0.48617752777462386,
+      "lossRate": 0.22284867356769925
+    },
+    {
+      "date": "2023-06-12",
+      "sales": 5636,
+      "conversions": 51,
+      "sessions": 748,
+      "winRate": 0.5071667259400225,
+      "lossRate": 0.3992493584978716
+    },
+    {
+      "date": "2023-06-13",
+      "sales": 8831,
+      "conversions": 72,
+      "sessions": 895,
+      "winRate": 0.5508198400530302,
+      "lossRate": 0.3128176118211433
+    },
+    {
+      "date": "2023-06-14",
+      "sales": 1386,
+      "conversions": 99,
+      "sessions": 220,
+      "winRate": 0.48287047320380916,
+      "lossRate": 0.21216109947667447
+    },
+    {
+      "date": "2023-06-15",
+      "sales": 5819,
+      "conversions": 95,
+      "sessions": 513,
+      "winRate": 0.5985180211016816,
+      "lossRate": 0.337224965570014
+    },
+    {
+      "date": "2023-06-16",
+      "sales": 1257,
+      "conversions": 37,
+      "sessions": 392,
+      "winRate": 0.5007159843899117,
+      "lossRate": 0.24016377864943453
+    },
+    {
+      "date": "2023-06-17",
+      "sales": 5458,
+      "conversions": 42,
+      "sessions": 673,
+      "winRate": 0.5130812719781643,
+      "lossRate": 0.2988983985939856
+    },
+    {
+      "date": "2023-06-18",
+      "sales": 2904,
+      "conversions": 88,
+      "sessions": 862,
+      "winRate": 0.5639039244342638,
+      "lossRate": 0.32247198952600453
+    },
+    {
+      "date": "2023-06-19",
+      "sales": 10435,
+      "conversions": 49,
+      "sessions": 1018,
+      "winRate": 0.5622551978150092,
+      "lossRate": 0.37500960274994044
+    },
+    {
+      "date": "2023-06-20",
+      "sales": 9543,
+      "conversions": 86,
+      "sessions": 893,
+      "winRate": 0.42650583176492396,
+      "lossRate": 0.2546233340356761
+    },
+    {
+      "date": "2023-06-21",
+      "sales": 3636,
+      "conversions": 64,
+      "sessions": 804,
+      "winRate": 0.5648988229091245,
+      "lossRate": 0.28818896037242414
+    },
+    {
+      "date": "2023-06-22",
+      "sales": 8473,
+      "conversions": 34,
+      "sessions": 605,
+      "winRate": 0.49487647479021746,
+      "lossRate": 0.35303960404172285
+    },
+    {
+      "date": "2023-06-23",
+      "sales": 4286,
+      "conversions": 44,
+      "sessions": 516,
+      "winRate": 0.46098185743744585,
+      "lossRate": 0.3421077148387544
+    },
+    {
+      "date": "2023-06-24",
+      "sales": 5602,
+      "conversions": 32,
+      "sessions": 333,
+      "winRate": 0.43459812348137966,
+      "lossRate": 0.3077689795203278
+    },
+    {
+      "date": "2023-06-25",
+      "sales": 7921,
+      "conversions": 19,
+      "sessions": 424,
+      "winRate": 0.5805138510239127,
+      "lossRate": 0.30986140301449283
+    },
+    {
+      "date": "2023-06-26",
+      "sales": 2167,
+      "conversions": 56,
+      "sessions": 829,
+      "winRate": 0.4023452951381048,
+      "lossRate": 0.25512971870529255
+    },
+    {
+      "date": "2023-06-27",
+      "sales": 1331,
+      "conversions": 85,
+      "sessions": 955,
+      "winRate": 0.44306793623016033,
+      "lossRate": 0.20012206862890491
+    },
+    {
+      "date": "2023-06-28",
+      "sales": 3603,
+      "conversions": 45,
+      "sessions": 253,
+      "winRate": 0.5333960256949184,
+      "lossRate": 0.26887840831698306
+    },
+    {
+      "date": "2023-06-29",
+      "sales": 2003,
+      "conversions": 18,
+      "sessions": 540,
+      "winRate": 0.4974940562821091,
+      "lossRate": 0.3008414161507059
+    },
+    {
+      "date": "2023-06-30",
+      "sales": 2827,
+      "conversions": 85,
+      "sessions": 293,
+      "winRate": 0.44865569614495004,
+      "lossRate": 0.26523271466540316
+    },
+    {
+      "date": "2023-07-01",
+      "sales": 6594,
+      "conversions": 102,
+      "sessions": 648,
+      "winRate": 0.5916875498507098,
+      "lossRate": 0.21041623247350968
+    },
+    {
+      "date": "2023-07-02",
+      "sales": 3067,
+      "conversions": 35,
+      "sessions": 610,
+      "winRate": 0.4368758421491416,
+      "lossRate": 0.3723004208397642
+    },
+    {
+      "date": "2023-07-03",
+      "sales": 8087,
+      "conversions": 69,
+      "sessions": 705,
+      "winRate": 0.5709435903279484,
+      "lossRate": 0.38103114734716675
+    },
+    {
+      "date": "2023-07-04",
+      "sales": 10016,
+      "conversions": 55,
+      "sessions": 467,
+      "winRate": 0.5923086372535604,
+      "lossRate": 0.23192318686463553
+    },
+    {
+      "date": "2023-07-05",
+      "sales": 7462,
+      "conversions": 102,
+      "sessions": 870,
+      "winRate": 0.5637254237305058,
+      "lossRate": 0.34301377867005245
+    },
+    {
+      "date": "2023-07-06",
+      "sales": 3700,
+      "conversions": 101,
+      "sessions": 938,
+      "winRate": 0.5374089854127919,
+      "lossRate": 0.29873507089015916
+    },
+    {
+      "date": "2023-07-07",
+      "sales": 10470,
+      "conversions": 78,
+      "sessions": 1053,
+      "winRate": 0.5147537037719944,
+      "lossRate": 0.3311507097592461
+    },
+    {
+      "date": "2023-07-08",
+      "sales": 5772,
+      "conversions": 29,
+      "sessions": 143,
+      "winRate": 0.5289597182883924,
+      "lossRate": 0.2786028812256305
+    },
+    {
+      "date": "2023-07-09",
+      "sales": 2984,
+      "conversions": 75,
+      "sessions": 703,
+      "winRate": 0.46098645795480636,
+      "lossRate": 0.2906489760160069
+    },
+    {
+      "date": "2023-07-10",
+      "sales": 8995,
+      "conversions": 68,
+      "sessions": 729,
+      "winRate": 0.5533631549149953,
+      "lossRate": 0.37071997519010136
+    },
+    {
+      "date": "2023-07-11",
+      "sales": 3510,
+      "conversions": 30,
+      "sessions": 1098,
+      "winRate": 0.4542670145550199,
+      "lossRate": 0.33255219640182554
+    },
+    {
+      "date": "2023-07-12",
+      "sales": 3205,
+      "conversions": 91,
+      "sessions": 360,
+      "winRate": 0.49674415380573733,
+      "lossRate": 0.21952588870558484
+    },
+    {
+      "date": "2023-07-13",
+      "sales": 4156,
+      "conversions": 63,
+      "sessions": 114,
+      "winRate": 0.4938807713990261,
+      "lossRate": 0.3410876467018057
+    },
+    {
+      "date": "2023-07-14",
+      "sales": 8914,
+      "conversions": 24,
+      "sessions": 976,
+      "winRate": 0.48909780273037123,
+      "lossRate": 0.2323952372285407
+    },
+    {
+      "date": "2023-07-15",
+      "sales": 8631,
+      "conversions": 12,
+      "sessions": 960,
+      "winRate": 0.546851071929022,
+      "lossRate": 0.31830370284187226
+    },
+    {
+      "date": "2023-07-16",
+      "sales": 1125,
+      "conversions": 97,
+      "sessions": 173,
+      "winRate": 0.4023847057489578,
+      "lossRate": 0.32999123851870366
+    },
+    {
+      "date": "2023-07-17",
+      "sales": 8274,
+      "conversions": 10,
+      "sessions": 787,
+      "winRate": 0.4211996714872948,
+      "lossRate": 0.3594072199646463
+    },
+    {
+      "date": "2023-07-18",
+      "sales": 9274,
+      "conversions": 27,
+      "sessions": 410,
+      "winRate": 0.5764862182105175,
+      "lossRate": 0.35027929384122247
+    },
+    {
+      "date": "2023-07-19",
+      "sales": 9241,
+      "conversions": 39,
+      "sessions": 935,
+      "winRate": 0.4688387817640558,
+      "lossRate": 0.28538675016911585
+    },
+    {
+      "date": "2023-07-20",
+      "sales": 4822,
+      "conversions": 27,
+      "sessions": 265,
+      "winRate": 0.5261709601263423,
+      "lossRate": 0.3714624068592973
+    },
+    {
+      "date": "2023-07-21",
+      "sales": 9012,
+      "conversions": 58,
+      "sessions": 734,
+      "winRate": 0.4561438707642643,
+      "lossRate": 0.36504352604814544
+    },
+    {
+      "date": "2023-07-22",
+      "sales": 4004,
+      "conversions": 58,
+      "sessions": 537,
+      "winRate": 0.4206212775296486,
+      "lossRate": 0.38098451027708014
+    },
+    {
+      "date": "2023-07-23",
+      "sales": 1631,
+      "conversions": 35,
+      "sessions": 168,
+      "winRate": 0.4345570919624648,
+      "lossRate": 0.38600949827928027
+    },
+    {
+      "date": "2023-07-24",
+      "sales": 5688,
+      "conversions": 56,
+      "sessions": 428,
+      "winRate": 0.4979984610122927,
+      "lossRate": 0.29235809737231777
+    },
+    {
+      "date": "2023-07-25",
+      "sales": 4791,
+      "conversions": 50,
+      "sessions": 877,
+      "winRate": 0.4593084555062068,
+      "lossRate": 0.38096231023351673
+    },
+    {
+      "date": "2023-07-26",
+      "sales": 2013,
+      "conversions": 85,
+      "sessions": 337,
+      "winRate": 0.5755788829473174,
+      "lossRate": 0.21918000621329023
+    },
+    {
+      "date": "2023-07-27",
+      "sales": 5178,
+      "conversions": 14,
+      "sessions": 834,
+      "winRate": 0.5912285391878205,
+      "lossRate": 0.3828523072195369
+    },
+    {
+      "date": "2023-07-28",
+      "sales": 2131,
+      "conversions": 92,
+      "sessions": 648,
+      "winRate": 0.4526093271500678,
+      "lossRate": 0.26987043826668194
+    },
+    {
+      "date": "2023-07-29",
+      "sales": 10756,
+      "conversions": 82,
+      "sessions": 1090,
+      "winRate": 0.48391282972226907,
+      "lossRate": 0.3332366761212373
+    },
+    {
+      "date": "2023-07-30",
+      "sales": 10185,
+      "conversions": 13,
+      "sessions": 845,
+      "winRate": 0.5919433417594979,
+      "lossRate": 0.23081232123727405
+    },
+    {
+      "date": "2023-07-31",
+      "sales": 7513,
+      "conversions": 84,
+      "sessions": 500,
+      "winRate": 0.5013638340149802,
+      "lossRate": 0.2007565236855019
+    },
+    {
+      "date": "2023-08-01",
+      "sales": 9520,
+      "conversions": 82,
+      "sessions": 615,
+      "winRate": 0.46750336710512347,
+      "lossRate": 0.39416709366171804
+    },
+    {
+      "date": "2023-08-02",
+      "sales": 1760,
+      "conversions": 51,
+      "sessions": 573,
+      "winRate": 0.5168993836368503,
+      "lossRate": 0.20401334554620792
+    },
+    {
+      "date": "2023-08-03",
+      "sales": 5827,
+      "conversions": 83,
+      "sessions": 406,
+      "winRate": 0.443157166589133,
+      "lossRate": 0.30999483965076396
+    },
+    {
+      "date": "2023-08-04",
+      "sales": 10918,
+      "conversions": 20,
+      "sessions": 782,
+      "winRate": 0.5844958154969557,
+      "lossRate": 0.20288634907322178
+    },
+    {
+      "date": "2023-08-05",
+      "sales": 10243,
+      "conversions": 61,
+      "sessions": 866,
+      "winRate": 0.5026121322492326,
+      "lossRate": 0.3158053833299745
+    },
+    {
+      "date": "2023-08-06",
+      "sales": 10912,
+      "conversions": 93,
+      "sessions": 154,
+      "winRate": 0.5370965112030984,
+      "lossRate": 0.31141283958660665
+    },
+    {
+      "date": "2023-08-07",
+      "sales": 4868,
+      "conversions": 57,
+      "sessions": 392,
+      "winRate": 0.47432764584800086,
+      "lossRate": 0.35384325544084616
+    },
+    {
+      "date": "2023-08-08",
+      "sales": 5187,
+      "conversions": 61,
+      "sessions": 440,
+      "winRate": 0.4925188457388777,
+      "lossRate": 0.22209525678468492
+    },
+    {
+      "date": "2023-08-09",
+      "sales": 10024,
+      "conversions": 30,
+      "sessions": 394,
+      "winRate": 0.5351117330463372,
+      "lossRate": 0.23243700993433394
+    },
+    {
+      "date": "2023-08-10",
+      "sales": 1347,
+      "conversions": 53,
+      "sessions": 198,
+      "winRate": 0.45983536790797697,
+      "lossRate": 0.3492188195486956
+    },
+    {
+      "date": "2023-08-11",
+      "sales": 3378,
+      "conversions": 93,
+      "sessions": 714,
+      "winRate": 0.5220941981128836,
+      "lossRate": 0.3217122460586678
+    },
+    {
+      "date": "2023-08-12",
+      "sales": 8443,
+      "conversions": 16,
+      "sessions": 410,
+      "winRate": 0.5822003534480393,
+      "lossRate": 0.32147448632190356
+    },
+    {
+      "date": "2023-08-13",
+      "sales": 3322,
+      "conversions": 17,
+      "sessions": 252,
+      "winRate": 0.4958218886677633,
+      "lossRate": 0.2161857911385636
+    },
+    {
+      "date": "2023-08-14",
+      "sales": 9468,
+      "conversions": 36,
+      "sessions": 997,
+      "winRate": 0.46848652276852504,
+      "lossRate": 0.2266476288886223
+    },
+    {
+      "date": "2023-08-15",
+      "sales": 10785,
+      "conversions": 82,
+      "sessions": 891,
+      "winRate": 0.4369280425224378,
+      "lossRate": 0.22468707508301794
+    },
+    {
+      "date": "2023-08-16",
+      "sales": 1154,
+      "conversions": 65,
+      "sessions": 962,
+      "winRate": 0.4370336172181861,
+      "lossRate": 0.31572149766084195
+    },
+    {
+      "date": "2023-08-17",
+      "sales": 7361,
+      "conversions": 66,
+      "sessions": 1076,
+      "winRate": 0.5854262953044299,
+      "lossRate": 0.29979609056302386
+    },
+    {
+      "date": "2023-08-18",
+      "sales": 9064,
+      "conversions": 11,
+      "sessions": 469,
+      "winRate": 0.48238013269531044,
+      "lossRate": 0.28375080497345667
+    },
+    {
+      "date": "2023-08-19",
+      "sales": 5770,
+      "conversions": 10,
+      "sessions": 183,
+      "winRate": 0.5659121692491197,
+      "lossRate": 0.28981570489163255
+    },
+    {
+      "date": "2023-08-20",
+      "sales": 10344,
+      "conversions": 45,
+      "sessions": 1043,
+      "winRate": 0.565788519359149,
+      "lossRate": 0.2345513591236491
+    },
+    {
+      "date": "2023-08-21",
+      "sales": 5098,
+      "conversions": 39,
+      "sessions": 756,
+      "winRate": 0.43187205295220116,
+      "lossRate": 0.2588226031103367
+    },
+    {
+      "date": "2023-08-22",
+      "sales": 6869,
+      "conversions": 86,
+      "sessions": 916,
+      "winRate": 0.5168442368704598,
+      "lossRate": 0.38700169732426737
+    },
+    {
+      "date": "2023-08-23",
+      "sales": 8908,
+      "conversions": 50,
+      "sessions": 826,
+      "winRate": 0.46930559932868476,
+      "lossRate": 0.3835909139041967
+    },
+    {
+      "date": "2023-08-24",
+      "sales": 9268,
+      "conversions": 25,
+      "sessions": 476,
+      "winRate": 0.5235943755362988,
+      "lossRate": 0.3847969787957989
+    },
+    {
+      "date": "2023-08-25",
+      "sales": 9199,
+      "conversions": 97,
+      "sessions": 380,
+      "winRate": 0.49211485215303713,
+      "lossRate": 0.20071390148853846
+    },
+    {
+      "date": "2023-08-26",
+      "sales": 5973,
+      "conversions": 32,
+      "sessions": 355,
+      "winRate": 0.5892446170310841,
+      "lossRate": 0.34717815062775587
+    },
+    {
+      "date": "2023-08-27",
+      "sales": 1129,
+      "conversions": 69,
+      "sessions": 624,
+      "winRate": 0.40710026119476095,
+      "lossRate": 0.27285344176206516
+    },
+    {
+      "date": "2023-08-28",
+      "sales": 6151,
+      "conversions": 95,
+      "sessions": 275,
+      "winRate": 0.5918057921824029,
+      "lossRate": 0.39416787922508095
+    },
+    {
+      "date": "2023-08-29",
+      "sales": 10281,
+      "conversions": 68,
+      "sessions": 267,
+      "winRate": 0.5645736796050449,
+      "lossRate": 0.363302902252423
+    },
+    {
+      "date": "2023-08-30",
+      "sales": 2468,
+      "conversions": 55,
+      "sessions": 137,
+      "winRate": 0.4517424165898513,
+      "lossRate": 0.315642663810355
+    },
+    {
+      "date": "2023-08-31",
+      "sales": 4224,
+      "conversions": 35,
+      "sessions": 503,
+      "winRate": 0.5349369417665442,
+      "lossRate": 0.300660474164264
+    },
+    {
+      "date": "2023-09-01",
+      "sales": 2031,
+      "conversions": 31,
+      "sessions": 435,
+      "winRate": 0.5177478309158087,
+      "lossRate": 0.2653510705378262
+    },
+    {
+      "date": "2023-09-02",
+      "sales": 3802,
+      "conversions": 36,
+      "sessions": 984,
+      "winRate": 0.4448340564236561,
+      "lossRate": 0.21246957376527115
+    },
+    {
+      "date": "2023-09-03",
+      "sales": 6711,
+      "conversions": 48,
+      "sessions": 988,
+      "winRate": 0.40741201742461364,
+      "lossRate": 0.3981142542720255
+    },
+    {
+      "date": "2023-09-04",
+      "sales": 2519,
+      "conversions": 15,
+      "sessions": 981,
+      "winRate": 0.5943133852844231,
+      "lossRate": 0.360547133218868
+    },
+    {
+      "date": "2023-09-05",
+      "sales": 9111,
+      "conversions": 36,
+      "sessions": 527,
+      "winRate": 0.5343707683153566,
+      "lossRate": 0.24826128439254425
+    },
+    {
+      "date": "2023-09-06",
+      "sales": 3725,
+      "conversions": 20,
+      "sessions": 1012,
+      "winRate": 0.5742525141746329,
+      "lossRate": 0.37397489325746225
+    },
+    {
+      "date": "2023-09-07",
+      "sales": 7155,
+      "conversions": 109,
+      "sessions": 344,
+      "winRate": 0.5688433670729107,
+      "lossRate": 0.31930469256202954
+    },
+    {
+      "date": "2023-09-08",
+      "sales": 3206,
+      "conversions": 96,
+      "sessions": 800,
+      "winRate": 0.4065567588837618,
+      "lossRate": 0.23460687615778508
+    },
+    {
+      "date": "2023-09-09",
+      "sales": 4067,
+      "conversions": 105,
+      "sessions": 901,
+      "winRate": 0.5687929182657818,
+      "lossRate": 0.21113863126604945
+    },
+    {
+      "date": "2023-09-10",
+      "sales": 3843,
+      "conversions": 57,
+      "sessions": 418,
+      "winRate": 0.5753597449051396,
+      "lossRate": 0.39587920414042665
+    },
+    {
+      "date": "2023-09-11",
+      "sales": 6566,
+      "conversions": 29,
+      "sessions": 396,
+      "winRate": 0.5196414441731387,
+      "lossRate": 0.32289748934468876
+    },
+    {
+      "date": "2023-09-12",
+      "sales": 4027,
+      "conversions": 73,
+      "sessions": 1078,
+      "winRate": 0.589075008959919,
+      "lossRate": 0.30936328206730423
+    },
+    {
+      "date": "2023-09-13",
+      "sales": 5731,
+      "conversions": 49,
+      "sessions": 222,
+      "winRate": 0.5207923860108188,
+      "lossRate": 0.3855674364101159
+    },
+    {
+      "date": "2023-09-14",
+      "sales": 1634,
+      "conversions": 41,
+      "sessions": 914,
+      "winRate": 0.5507080853453057,
+      "lossRate": 0.3638868989176418
+    },
+    {
+      "date": "2023-09-15",
+      "sales": 4884,
+      "conversions": 50,
+      "sessions": 661,
+      "winRate": 0.5529799733593341,
+      "lossRate": 0.25155029422921493
+    },
+    {
+      "date": "2023-09-16",
+      "sales": 4503,
+      "conversions": 91,
+      "sessions": 980,
+      "winRate": 0.4859604924010149,
+      "lossRate": 0.28851420868209104
+    },
+    {
+      "date": "2023-09-17",
+      "sales": 9436,
+      "conversions": 44,
+      "sessions": 700,
+      "winRate": 0.5890503227108953,
+      "lossRate": 0.3728728463377863
+    },
+    {
+      "date": "2023-09-18",
+      "sales": 10736,
+      "conversions": 105,
+      "sessions": 163,
+      "winRate": 0.5567538540130729,
+      "lossRate": 0.211131521200209
+    },
+    {
+      "date": "2023-09-19",
+      "sales": 3755,
+      "conversions": 100,
+      "sessions": 997,
+      "winRate": 0.5032428866631448,
+      "lossRate": 0.36216403678677983
+    },
+    {
+      "date": "2023-09-20",
+      "sales": 9953,
+      "conversions": 31,
+      "sessions": 1077,
+      "winRate": 0.5954603961856171,
+      "lossRate": 0.22482276258717807
+    },
+    {
+      "date": "2023-09-21",
+      "sales": 1826,
+      "conversions": 60,
+      "sessions": 1014,
+      "winRate": 0.46129105453091923,
+      "lossRate": 0.23043864990297824
+    },
+    {
+      "date": "2023-09-22",
+      "sales": 6063,
+      "conversions": 24,
+      "sessions": 349,
+      "winRate": 0.5465502889495495,
+      "lossRate": 0.2934591991783976
+    },
+    {
+      "date": "2023-09-23",
+      "sales": 3021,
+      "conversions": 21,
+      "sessions": 783,
+      "winRate": 0.4016610073856977,
+      "lossRate": 0.39851444538546826
+    },
+    {
+      "date": "2023-09-24",
+      "sales": 2446,
+      "conversions": 11,
+      "sessions": 103,
+      "winRate": 0.4906139718163253,
+      "lossRate": 0.37704397604906603
+    },
+    {
+      "date": "2023-09-25",
+      "sales": 9231,
+      "conversions": 37,
+      "sessions": 980,
+      "winRate": 0.43708223194854934,
+      "lossRate": 0.34884565924983246
+    },
+    {
+      "date": "2023-09-26",
+      "sales": 10891,
+      "conversions": 21,
+      "sessions": 1010,
+      "winRate": 0.5841220408253021,
+      "lossRate": 0.3146064177240822
+    },
+    {
+      "date": "2023-09-27",
+      "sales": 2012,
+      "conversions": 22,
+      "sessions": 885,
+      "winRate": 0.44822697444026666,
+      "lossRate": 0.3125694607121529
+    },
+    {
+      "date": "2023-09-28",
+      "sales": 6831,
+      "conversions": 31,
+      "sessions": 365,
+      "winRate": 0.5347707241662563,
+      "lossRate": 0.35315378127596986
+    },
+    {
+      "date": "2023-09-29",
+      "sales": 8973,
+      "conversions": 30,
+      "sessions": 291,
+      "winRate": 0.5510012095761823,
+      "lossRate": 0.2530316520177016
+    },
+    {
+      "date": "2023-09-30",
+      "sales": 6760,
+      "conversions": 21,
+      "sessions": 391,
+      "winRate": 0.4856540018559702,
+      "lossRate": 0.230609154729422
+    },
+    {
+      "date": "2023-10-01",
+      "sales": 8566,
+      "conversions": 17,
+      "sessions": 420,
+      "winRate": 0.46782441360531113,
+      "lossRate": 0.3938383099491555
+    },
+    {
+      "date": "2023-10-02",
+      "sales": 8150,
+      "conversions": 85,
+      "sessions": 143,
+      "winRate": 0.42541117462117933,
+      "lossRate": 0.21952629567644602
+    },
+    {
+      "date": "2023-10-03",
+      "sales": 8751,
+      "conversions": 56,
+      "sessions": 726,
+      "winRate": 0.4305994974054159,
+      "lossRate": 0.23664690644165096
+    },
+    {
+      "date": "2023-10-04",
+      "sales": 1638,
+      "conversions": 30,
+      "sessions": 795,
+      "winRate": 0.5838214976620625,
+      "lossRate": 0.3772261555817978
+    },
+    {
+      "date": "2023-10-05",
+      "sales": 1574,
+      "conversions": 23,
+      "sessions": 788,
+      "winRate": 0.4814857715876386,
+      "lossRate": 0.2661653173034324
+    },
+    {
+      "date": "2023-10-06",
+      "sales": 9390,
+      "conversions": 80,
+      "sessions": 419,
+      "winRate": 0.5799772026994328,
+      "lossRate": 0.2517318000678166
+    },
+    {
+      "date": "2023-10-07",
+      "sales": 6292,
+      "conversions": 59,
+      "sessions": 815,
+      "winRate": 0.47351371257798736,
+      "lossRate": 0.35503199542497366
+    },
+    {
+      "date": "2023-10-08",
+      "sales": 9721,
+      "conversions": 92,
+      "sessions": 221,
+      "winRate": 0.4914355212300601,
+      "lossRate": 0.34238030575852446
+    },
+    {
+      "date": "2023-10-09",
+      "sales": 7996,
+      "conversions": 58,
+      "sessions": 151,
+      "winRate": 0.5628738791925678,
+      "lossRate": 0.38551826925518673
+    },
+    {
+      "date": "2023-10-10",
+      "sales": 6610,
+      "conversions": 89,
+      "sessions": 872,
+      "winRate": 0.5710796791992315,
+      "lossRate": 0.22846551493020578
+    },
+    {
+      "date": "2023-10-11",
+      "sales": 8002,
+      "conversions": 35,
+      "sessions": 832,
+      "winRate": 0.4543570458773395,
+      "lossRate": 0.3926473863943484
+    },
+    {
+      "date": "2023-10-12",
+      "sales": 1782,
+      "conversions": 88,
+      "sessions": 340,
+      "winRate": 0.5159214349342656,
+      "lossRate": 0.3379422688353911
+    },
+    {
+      "date": "2023-10-13",
+      "sales": 7284,
+      "conversions": 76,
+      "sessions": 855,
+      "winRate": 0.46142442574606096,
+      "lossRate": 0.28990733593248
+    },
+    {
+      "date": "2023-10-14",
+      "sales": 3978,
+      "conversions": 106,
+      "sessions": 1037,
+      "winRate": 0.42504010723792884,
+      "lossRate": 0.28319734684625986
+    },
+    {
+      "date": "2023-10-15",
+      "sales": 1406,
+      "conversions": 47,
+      "sessions": 742,
+      "winRate": 0.4064759206434468,
+      "lossRate": 0.333784843152077
+    },
+    {
+      "date": "2023-10-16",
+      "sales": 6192,
+      "conversions": 105,
+      "sessions": 204,
+      "winRate": 0.44926178024401275,
+      "lossRate": 0.3471935177048132
+    },
+    {
+      "date": "2023-10-17",
+      "sales": 10370,
+      "conversions": 83,
+      "sessions": 563,
+      "winRate": 0.5517691859867558,
+      "lossRate": 0.2589160680364746
+    },
+    {
+      "date": "2023-10-18",
+      "sales": 3458,
+      "conversions": 36,
+      "sessions": 240,
+      "winRate": 0.44263966840854896,
+      "lossRate": 0.21788668666663502
+    },
+    {
+      "date": "2023-10-19",
+      "sales": 4936,
+      "conversions": 35,
+      "sessions": 776,
+      "winRate": 0.4111930342182599,
+      "lossRate": 0.3010380538250803
+    },
+    {
+      "date": "2023-10-20",
+      "sales": 1189,
+      "conversions": 27,
+      "sessions": 564,
+      "winRate": 0.40732129394198124,
+      "lossRate": 0.27609834961904633
+    },
+    {
+      "date": "2023-10-21",
+      "sales": 10977,
+      "conversions": 61,
+      "sessions": 107,
+      "winRate": 0.4227444790852395,
+      "lossRate": 0.2875982385966345
+    },
+    {
+      "date": "2023-10-22",
+      "sales": 9685,
+      "conversions": 30,
+      "sessions": 890,
+      "winRate": 0.42881862794629955,
+      "lossRate": 0.3544482033175353
+    },
+    {
+      "date": "2023-10-23",
+      "sales": 7276,
+      "conversions": 25,
+      "sessions": 480,
+      "winRate": 0.5693620591176923,
+      "lossRate": 0.2576847061938337
+    },
+    {
+      "date": "2023-10-24",
+      "sales": 8523,
+      "conversions": 99,
+      "sessions": 254,
+      "winRate": 0.5271125409246007,
+      "lossRate": 0.21670280846858725
+    },
+    {
+      "date": "2023-10-25",
+      "sales": 9163,
+      "conversions": 15,
+      "sessions": 452,
+      "winRate": 0.41135335809087337,
+      "lossRate": 0.285502534525815
+    },
+    {
+      "date": "2023-10-26",
+      "sales": 1138,
+      "conversions": 17,
+      "sessions": 263,
+      "winRate": 0.5192470227752082,
+      "lossRate": 0.2722312432904778
+    },
+    {
+      "date": "2023-10-27",
+      "sales": 7575,
+      "conversions": 30,
+      "sessions": 181,
+      "winRate": 0.47243295887639875,
+      "lossRate": 0.30396246439303004
+    },
+    {
+      "date": "2023-10-28",
+      "sales": 9208,
+      "conversions": 38,
+      "sessions": 368,
+      "winRate": 0.5499014306295565,
+      "lossRate": 0.3997362141244103
+    },
+    {
+      "date": "2023-10-29",
+      "sales": 4765,
+      "conversions": 37,
+      "sessions": 569,
+      "winRate": 0.5423828252359424,
+      "lossRate": 0.2721724407925301
+    },
+    {
+      "date": "2023-10-30",
+      "sales": 3894,
+      "conversions": 93,
+      "sessions": 133,
+      "winRate": 0.4021144001469733,
+      "lossRate": 0.2039765610426113
+    },
+    {
+      "date": "2023-10-31",
+      "sales": 6098,
+      "conversions": 82,
+      "sessions": 677,
+      "winRate": 0.43730416339961564,
+      "lossRate": 0.38668642813556425
+    },
+    {
+      "date": "2023-11-01",
+      "sales": 4060,
+      "conversions": 66,
+      "sessions": 621,
+      "winRate": 0.4045530810175022,
+      "lossRate": 0.387351761721971
+    },
+    {
+      "date": "2023-11-02",
+      "sales": 9798,
+      "conversions": 102,
+      "sessions": 173,
+      "winRate": 0.5828555126139566,
+      "lossRate": 0.36733279662397844
+    },
+    {
+      "date": "2023-11-03",
+      "sales": 1365,
+      "conversions": 20,
+      "sessions": 683,
+      "winRate": 0.4186470413033212,
+      "lossRate": 0.20247348562802536
+    },
+    {
+      "date": "2023-11-04",
+      "sales": 9992,
+      "conversions": 25,
+      "sessions": 354,
+      "winRate": 0.42200375753427183,
+      "lossRate": 0.20935812806670506
+    },
+    {
+      "date": "2023-11-05",
+      "sales": 6765,
+      "conversions": 14,
+      "sessions": 247,
+      "winRate": 0.5808285185765066,
+      "lossRate": 0.29869140952534806
+    },
+    {
+      "date": "2023-11-06",
+      "sales": 8611,
+      "conversions": 86,
+      "sessions": 522,
+      "winRate": 0.4774800491324939,
+      "lossRate": 0.3166978741456574
+    },
+    {
+      "date": "2023-11-07",
+      "sales": 10320,
+      "conversions": 42,
+      "sessions": 561,
+      "winRate": 0.44430785426005365,
+      "lossRate": 0.36812728883523665
+    },
+    {
+      "date": "2023-11-08",
+      "sales": 4508,
+      "conversions": 36,
+      "sessions": 715,
+      "winRate": 0.548920664286827,
+      "lossRate": 0.2501853559011562
+    },
+    {
+      "date": "2023-11-09",
+      "sales": 10499,
+      "conversions": 61,
+      "sessions": 511,
+      "winRate": 0.4925423052889507,
+      "lossRate": 0.30228995363505884
+    },
+    {
+      "date": "2023-11-10",
+      "sales": 9136,
+      "conversions": 43,
+      "sessions": 903,
+      "winRate": 0.5889789202359098,
+      "lossRate": 0.21284640246501857
+    },
+    {
+      "date": "2023-11-11",
+      "sales": 5452,
+      "conversions": 92,
+      "sessions": 639,
+      "winRate": 0.5493854499699694,
+      "lossRate": 0.2092192231676241
+    },
+    {
+      "date": "2023-11-12",
+      "sales": 3687,
+      "conversions": 69,
+      "sessions": 469,
+      "winRate": 0.5687242551522038,
+      "lossRate": 0.3227122699121945
+    },
+    {
+      "date": "2023-11-13",
+      "sales": 6818,
+      "conversions": 94,
+      "sessions": 581,
+      "winRate": 0.5089047946166477,
+      "lossRate": 0.3928171641153768
+    },
+    {
+      "date": "2023-11-14",
+      "sales": 10938,
+      "conversions": 30,
+      "sessions": 369,
+      "winRate": 0.5206943731654121,
+      "lossRate": 0.21542784694002567
+    },
+    {
+      "date": "2023-11-15",
+      "sales": 10201,
+      "conversions": 32,
+      "sessions": 212,
+      "winRate": 0.4855201312457926,
+      "lossRate": 0.35011531575874905
+    },
+    {
+      "date": "2023-11-16",
+      "sales": 1367,
+      "conversions": 95,
+      "sessions": 274,
+      "winRate": 0.5004013642875464,
+      "lossRate": 0.2766341401299238
+    },
+    {
+      "date": "2023-11-17",
+      "sales": 1985,
+      "conversions": 59,
+      "sessions": 690,
+      "winRate": 0.5777767429210817,
+      "lossRate": 0.29064054493976177
+    },
+    {
+      "date": "2023-11-18",
+      "sales": 1039,
+      "conversions": 89,
+      "sessions": 276,
+      "winRate": 0.5096415380037238,
+      "lossRate": 0.26909282146253344
+    },
+    {
+      "date": "2023-11-19",
+      "sales": 9376,
+      "conversions": 100,
+      "sessions": 905,
+      "winRate": 0.45977085631172576,
+      "lossRate": 0.31878135452911394
+    },
+    {
+      "date": "2023-11-20",
+      "sales": 6513,
+      "conversions": 87,
+      "sessions": 526,
+      "winRate": 0.4139755423979003,
+      "lossRate": 0.31924223639072785
+    },
+    {
+      "date": "2023-11-21",
+      "sales": 8972,
+      "conversions": 28,
+      "sessions": 737,
+      "winRate": 0.4422588523425566,
+      "lossRate": 0.3775721660274421
+    },
+    {
+      "date": "2023-11-22",
+      "sales": 2982,
+      "conversions": 29,
+      "sessions": 849,
+      "winRate": 0.4165367268360451,
+      "lossRate": 0.2548585397042912
+    },
+    {
+      "date": "2023-11-23",
+      "sales": 6404,
+      "conversions": 10,
+      "sessions": 314,
+      "winRate": 0.5028712440588496,
+      "lossRate": 0.34441542752380566
+    },
+    {
+      "date": "2023-11-24",
+      "sales": 4382,
+      "conversions": 91,
+      "sessions": 123,
+      "winRate": 0.4512173316576895,
+      "lossRate": 0.27250783697367326
+    },
+    {
+      "date": "2023-11-25",
+      "sales": 9968,
+      "conversions": 13,
+      "sessions": 959,
+      "winRate": 0.4295959703408428,
+      "lossRate": 0.3212311513681579
+    },
+    {
+      "date": "2023-11-26",
+      "sales": 6725,
+      "conversions": 62,
+      "sessions": 607,
+      "winRate": 0.509807837924638,
+      "lossRate": 0.35166906832233846
+    },
+    {
+      "date": "2023-11-27",
+      "sales": 4864,
+      "conversions": 45,
+      "sessions": 601,
+      "winRate": 0.582872538301008,
+      "lossRate": 0.2935146121288059
+    },
+    {
+      "date": "2023-11-28",
+      "sales": 5927,
+      "conversions": 72,
+      "sessions": 311,
+      "winRate": 0.5159997704194319,
+      "lossRate": 0.2576991062295564
+    },
+    {
+      "date": "2023-11-29",
+      "sales": 6376,
+      "conversions": 34,
+      "sessions": 1001,
+      "winRate": 0.45808707643775304,
+      "lossRate": 0.2583748316554819
+    },
+    {
+      "date": "2023-11-30",
+      "sales": 7019,
+      "conversions": 96,
+      "sessions": 896,
+      "winRate": 0.5185675263867549,
+      "lossRate": 0.24188097507217626
+    },
+    {
+      "date": "2023-12-01",
+      "sales": 10349,
+      "conversions": 21,
+      "sessions": 400,
+      "winRate": 0.40412698575284317,
+      "lossRate": 0.27479665502634965
+    },
+    {
+      "date": "2023-12-02",
+      "sales": 4195,
+      "conversions": 27,
+      "sessions": 753,
+      "winRate": 0.47006969035371887,
+      "lossRate": 0.23158373450317368
+    },
+    {
+      "date": "2023-12-03",
+      "sales": 10752,
+      "conversions": 18,
+      "sessions": 852,
+      "winRate": 0.5433303925637178,
+      "lossRate": 0.20193389558586677
+    },
+    {
+      "date": "2023-12-04",
+      "sales": 1756,
+      "conversions": 96,
+      "sessions": 474,
+      "winRate": 0.5752316805297143,
+      "lossRate": 0.33748700771195694
+    },
+    {
+      "date": "2023-12-05",
+      "sales": 8792,
+      "conversions": 99,
+      "sessions": 362,
+      "winRate": 0.5750229661728818,
+      "lossRate": 0.30157606911070856
+    },
+    {
+      "date": "2023-12-06",
+      "sales": 2777,
+      "conversions": 106,
+      "sessions": 1047,
+      "winRate": 0.5516649908670961,
+      "lossRate": 0.21982508095429962
+    },
+    {
+      "date": "2023-12-07",
+      "sales": 4362,
+      "conversions": 71,
+      "sessions": 655,
+      "winRate": 0.5455010332937912,
+      "lossRate": 0.2633623217445108
+    },
+    {
+      "date": "2023-12-08",
+      "sales": 4177,
+      "conversions": 31,
+      "sessions": 914,
+      "winRate": 0.5322113110092508,
+      "lossRate": 0.3093476521112292
+    },
+    {
+      "date": "2023-12-09",
+      "sales": 3703,
+      "conversions": 40,
+      "sessions": 266,
+      "winRate": 0.525805658662394,
+      "lossRate": 0.3885777826406082
+    },
+    {
+      "date": "2023-12-10",
+      "sales": 4042,
+      "conversions": 26,
+      "sessions": 1052,
+      "winRate": 0.5646312960040935,
+      "lossRate": 0.3088326851067605
+    },
+    {
+      "date": "2023-12-11",
+      "sales": 9471,
+      "conversions": 100,
+      "sessions": 305,
+      "winRate": 0.4356871603669854,
+      "lossRate": 0.35811056674412045
+    },
+    {
+      "date": "2023-12-12",
+      "sales": 1366,
+      "conversions": 16,
+      "sessions": 380,
+      "winRate": 0.5915063771865703,
+      "lossRate": 0.2704770781858676
+    },
+    {
+      "date": "2023-12-13",
+      "sales": 2645,
+      "conversions": 45,
+      "sessions": 259,
+      "winRate": 0.43317430849054195,
+      "lossRate": 0.3083229430420836
+    },
+    {
+      "date": "2023-12-14",
+      "sales": 9056,
+      "conversions": 73,
+      "sessions": 258,
+      "winRate": 0.43956419767520205,
+      "lossRate": 0.3856801978721442
+    },
+    {
+      "date": "2023-12-15",
+      "sales": 2232,
+      "conversions": 38,
+      "sessions": 592,
+      "winRate": 0.4529173244585302,
+      "lossRate": 0.2676841358666773
+    },
+    {
+      "date": "2023-12-16",
+      "sales": 2616,
+      "conversions": 108,
+      "sessions": 1026,
+      "winRate": 0.47896760585487125,
+      "lossRate": 0.2188760653166976
+    },
+    {
+      "date": "2023-12-17",
+      "sales": 1013,
+      "conversions": 95,
+      "sessions": 487,
+      "winRate": 0.562985024755551,
+      "lossRate": 0.24066168141916544
+    },
+    {
+      "date": "2023-12-18",
+      "sales": 3383,
+      "conversions": 73,
+      "sessions": 947,
+      "winRate": 0.5984887008315458,
+      "lossRate": 0.34374681868914514
+    },
+    {
+      "date": "2023-12-19",
+      "sales": 7373,
+      "conversions": 52,
+      "sessions": 1050,
+      "winRate": 0.43462504637695687,
+      "lossRate": 0.26030866076693504
+    },
+    {
+      "date": "2023-12-20",
+      "sales": 5983,
+      "conversions": 102,
+      "sessions": 666,
+      "winRate": 0.5484144152929263,
+      "lossRate": 0.2587581729726016
+    },
+    {
+      "date": "2023-12-21",
+      "sales": 2291,
+      "conversions": 70,
+      "sessions": 1047,
+      "winRate": 0.44300068317286134,
+      "lossRate": 0.32600344165786643
+    },
+    {
+      "date": "2023-12-22",
+      "sales": 9780,
+      "conversions": 56,
+      "sessions": 464,
+      "winRate": 0.5440115588211625,
+      "lossRate": 0.3563883108297948
+    },
+    {
+      "date": "2023-12-23",
+      "sales": 8367,
+      "conversions": 53,
+      "sessions": 775,
+      "winRate": 0.4569419036685902,
+      "lossRate": 0.3438731994620799
+    },
+    {
+      "date": "2023-12-24",
+      "sales": 1833,
+      "conversions": 43,
+      "sessions": 749,
+      "winRate": 0.49275795285978363,
+      "lossRate": 0.3501783863544611
+    },
+    {
+      "date": "2023-12-25",
+      "sales": 10562,
+      "conversions": 51,
+      "sessions": 161,
+      "winRate": 0.5804439187599454,
+      "lossRate": 0.301950083224296
+    },
+    {
+      "date": "2023-12-26",
+      "sales": 6144,
+      "conversions": 99,
+      "sessions": 342,
+      "winRate": 0.4143696018979812,
+      "lossRate": 0.38848378334026656
+    },
+    {
+      "date": "2023-12-27",
+      "sales": 5354,
+      "conversions": 42,
+      "sessions": 363,
+      "winRate": 0.5529144007629502,
+      "lossRate": 0.32100975763140027
+    },
+    {
+      "date": "2023-12-28",
+      "sales": 2913,
+      "conversions": 79,
+      "sessions": 371,
+      "winRate": 0.5592879592899953,
+      "lossRate": 0.3313953912469896
+    },
+    {
+      "date": "2023-12-29",
+      "sales": 3539,
+      "conversions": 10,
+      "sessions": 863,
+      "winRate": 0.5278224083433023,
+      "lossRate": 0.2978615788310374
+    },
+    {
+      "date": "2023-12-30",
+      "sales": 8488,
+      "conversions": 84,
+      "sessions": 968,
+      "winRate": 0.5492147891521506,
+      "lossRate": 0.27180884436534436
+    },
+    {
+      "date": "2023-12-31",
+      "sales": 8912,
+      "conversions": 105,
+      "sessions": 119,
+      "winRate": 0.4808300159594799,
+      "lossRate": 0.3597856207839951
+    },
+    {
+      "date": "2024-01-01",
+      "sales": 9108,
+      "conversions": 107,
+      "sessions": 853,
+      "winRate": 0.517267910845023,
+      "lossRate": 0.2147975031311452
+    },
+    {
+      "date": "2024-01-02",
+      "sales": 1382,
+      "conversions": 11,
+      "sessions": 996,
+      "winRate": 0.452294949855504,
+      "lossRate": 0.284929485171923
+    },
+    {
+      "date": "2024-01-03",
+      "sales": 7525,
+      "conversions": 55,
+      "sessions": 176,
+      "winRate": 0.541645332189661,
+      "lossRate": 0.32392836141302306
+    },
+    {
+      "date": "2024-01-04",
+      "sales": 3074,
+      "conversions": 75,
+      "sessions": 684,
+      "winRate": 0.5008960652258543,
+      "lossRate": 0.34953307321966953
+    },
+    {
+      "date": "2024-01-05",
+      "sales": 5214,
+      "conversions": 77,
+      "sessions": 916,
+      "winRate": 0.4994630578433674,
+      "lossRate": 0.3157602603057021
+    },
+    {
+      "date": "2024-01-06",
+      "sales": 10756,
+      "conversions": 81,
+      "sessions": 705,
+      "winRate": 0.46406296473739334,
+      "lossRate": 0.26890715517229763
+    },
+    {
+      "date": "2024-01-07",
+      "sales": 9416,
+      "conversions": 63,
+      "sessions": 198,
+      "winRate": 0.44671300995442387,
+      "lossRate": 0.25363121985013837
+    },
+    {
+      "date": "2024-01-08",
+      "sales": 9970,
+      "conversions": 99,
+      "sessions": 921,
+      "winRate": 0.49074993761356667,
+      "lossRate": 0.3291828396859756
+    },
+    {
+      "date": "2024-01-09",
+      "sales": 3033,
+      "conversions": 54,
+      "sessions": 620,
+      "winRate": 0.4824688104461679,
+      "lossRate": 0.2849556088833563
+    },
+    {
+      "date": "2024-01-10",
+      "sales": 2780,
+      "conversions": 47,
+      "sessions": 688,
+      "winRate": 0.43910701229827354,
+      "lossRate": 0.2621265392051437
+    },
+    {
+      "date": "2024-01-11",
+      "sales": 5814,
+      "conversions": 56,
+      "sessions": 169,
+      "winRate": 0.5446492403191034,
+      "lossRate": 0.3873795098799084
+    },
+    {
+      "date": "2024-01-12",
+      "sales": 3180,
+      "conversions": 12,
+      "sessions": 740,
+      "winRate": 0.4836700628111279,
+      "lossRate": 0.2922200613760486
+    },
+    {
+      "date": "2024-01-13",
+      "sales": 1398,
+      "conversions": 92,
+      "sessions": 376,
+      "winRate": 0.5135142092727969,
+      "lossRate": 0.341391763381097
+    },
+    {
+      "date": "2024-01-14",
+      "sales": 9765,
+      "conversions": 32,
+      "sessions": 223,
+      "winRate": 0.4780632798415229,
+      "lossRate": 0.21887742023207568
+    },
+    {
+      "date": "2024-01-15",
+      "sales": 6166,
+      "conversions": 29,
+      "sessions": 268,
+      "winRate": 0.5000863878764802,
+      "lossRate": 0.21181280469344219
+    },
+    {
+      "date": "2024-01-16",
+      "sales": 2865,
+      "conversions": 89,
+      "sessions": 859,
+      "winRate": 0.4583607259518441,
+      "lossRate": 0.3305459782315536
+    },
+    {
+      "date": "2024-01-17",
+      "sales": 10117,
+      "conversions": 99,
+      "sessions": 526,
+      "winRate": 0.4498289993395305,
+      "lossRate": 0.34996404475377463
+    },
+    {
+      "date": "2024-01-18",
+      "sales": 3868,
+      "conversions": 14,
+      "sessions": 496,
+      "winRate": 0.5389898024639498,
+      "lossRate": 0.34036880500432765
+    },
+    {
+      "date": "2024-01-19",
+      "sales": 2932,
+      "conversions": 16,
+      "sessions": 942,
+      "winRate": 0.4092902135267837,
+      "lossRate": 0.2825400998680282
+    },
+    {
+      "date": "2024-01-20",
+      "sales": 6096,
+      "conversions": 16,
+      "sessions": 1036,
+      "winRate": 0.585745050385095,
+      "lossRate": 0.2755303951768285
+    },
+    {
+      "date": "2024-01-21",
+      "sales": 8539,
+      "conversions": 18,
+      "sessions": 919,
+      "winRate": 0.5074199272786306,
+      "lossRate": 0.2365349641500558
+    },
+    {
+      "date": "2024-01-22",
+      "sales": 1047,
+      "conversions": 25,
+      "sessions": 225,
+      "winRate": 0.4049472809554784,
+      "lossRate": 0.28038046961317165
+    },
+    {
+      "date": "2024-01-23",
+      "sales": 3553,
+      "conversions": 76,
+      "sessions": 692,
+      "winRate": 0.540100921489618,
+      "lossRate": 0.38889932234897084
+    },
+    {
+      "date": "2024-01-24",
+      "sales": 3101,
+      "conversions": 16,
+      "sessions": 452,
+      "winRate": 0.5460944638452427,
+      "lossRate": 0.22972773977966776
+    },
+    {
+      "date": "2024-01-25",
+      "sales": 10475,
+      "conversions": 91,
+      "sessions": 611,
+      "winRate": 0.5333830827440065,
+      "lossRate": 0.21024189342953
+    },
+    {
+      "date": "2024-01-26",
+      "sales": 2060,
+      "conversions": 72,
+      "sessions": 859,
+      "winRate": 0.5763862493001167,
+      "lossRate": 0.25861631414877134
+    },
+    {
+      "date": "2024-01-27",
+      "sales": 3083,
+      "conversions": 43,
+      "sessions": 835,
+      "winRate": 0.5549229188717922,
+      "lossRate": 0.281278206594429
+    },
+    {
+      "date": "2024-01-28",
+      "sales": 9153,
+      "conversions": 35,
+      "sessions": 482,
+      "winRate": 0.47207905019987834,
+      "lossRate": 0.22400572493564322
+    },
+    {
+      "date": "2024-01-29",
+      "sales": 2458,
+      "conversions": 13,
+      "sessions": 351,
+      "winRate": 0.5301285953289162,
+      "lossRate": 0.2290489855951845
+    },
+    {
+      "date": "2024-01-30",
+      "sales": 3306,
+      "conversions": 79,
+      "sessions": 198,
+      "winRate": 0.46058101426006104,
+      "lossRate": 0.21956096418342408
+    },
+    {
+      "date": "2024-01-31",
+      "sales": 10057,
+      "conversions": 34,
+      "sessions": 941,
+      "winRate": 0.4210735547219773,
+      "lossRate": 0.24810833782612868
+    },
+    {
+      "date": "2024-02-01",
+      "sales": 7067,
+      "conversions": 107,
+      "sessions": 359,
+      "winRate": 0.5019238048092854,
+      "lossRate": 0.23712854233126826
+    },
+    {
+      "date": "2024-02-02",
+      "sales": 9771,
+      "conversions": 91,
+      "sessions": 601,
+      "winRate": 0.4194716997803487,
+      "lossRate": 0.20795618468413082
+    },
+    {
+      "date": "2024-02-03",
+      "sales": 10657,
+      "conversions": 59,
+      "sessions": 663,
+      "winRate": 0.430861611077518,
+      "lossRate": 0.36780024479213935
+    },
+    {
+      "date": "2024-02-04",
+      "sales": 3424,
+      "conversions": 76,
+      "sessions": 194,
+      "winRate": 0.5506462679719999,
+      "lossRate": 0.38109429472709166
+    },
+    {
+      "date": "2024-02-05",
+      "sales": 3189,
+      "conversions": 16,
+      "sessions": 733,
+      "winRate": 0.5125019130862116,
+      "lossRate": 0.2703618623521986
+    },
+    {
+      "date": "2024-02-06",
+      "sales": 7452,
+      "conversions": 51,
+      "sessions": 521,
+      "winRate": 0.43741364919083114,
+      "lossRate": 0.3751148853629194
+    },
+    {
+      "date": "2024-02-07",
+      "sales": 10556,
+      "conversions": 18,
+      "sessions": 136,
+      "winRate": 0.5990131111453182,
+      "lossRate": 0.23805138537815407
+    },
+    {
+      "date": "2024-02-08",
+      "sales": 1717,
+      "conversions": 77,
+      "sessions": 985,
+      "winRate": 0.5291178446500006,
+      "lossRate": 0.3316687329702196
+    },
+    {
+      "date": "2024-02-09",
+      "sales": 8155,
+      "conversions": 32,
+      "sessions": 189,
+      "winRate": 0.5394229081899863,
+      "lossRate": 0.28637809252781476
+    },
+    {
+      "date": "2024-02-10",
+      "sales": 2103,
+      "conversions": 31,
+      "sessions": 425,
+      "winRate": 0.49845013875736144,
+      "lossRate": 0.39527360988521676
+    },
+    {
+      "date": "2024-02-11",
+      "sales": 1993,
+      "conversions": 71,
+      "sessions": 1063,
+      "winRate": 0.45439796868914045,
+      "lossRate": 0.2680019114270137
+    },
+    {
+      "date": "2024-02-12",
+      "sales": 5246,
+      "conversions": 37,
+      "sessions": 762,
+      "winRate": 0.5315528458740288,
+      "lossRate": 0.27806330640242094
+    },
+    {
+      "date": "2024-02-13",
+      "sales": 9831,
+      "conversions": 79,
+      "sessions": 166,
+      "winRate": 0.5491078403023563,
+      "lossRate": 0.3327682502423521
+    },
+    {
+      "date": "2024-02-14",
+      "sales": 10287,
+      "conversions": 97,
+      "sessions": 650,
+      "winRate": 0.5159945911429616,
+      "lossRate": 0.3703938904569809
+    },
+    {
+      "date": "2024-02-15",
+      "sales": 5253,
+      "conversions": 47,
+      "sessions": 652,
+      "winRate": 0.4251606417030638,
+      "lossRate": 0.21361846291815323
+    },
+    {
+      "date": "2024-02-16",
+      "sales": 8408,
+      "conversions": 68,
+      "sessions": 631,
+      "winRate": 0.49424541938627187,
+      "lossRate": 0.3703170577747807
+    },
+    {
+      "date": "2024-02-17",
+      "sales": 2021,
+      "conversions": 41,
+      "sessions": 405,
+      "winRate": 0.5497887285207219,
+      "lossRate": 0.30377443928085407
+    },
+    {
+      "date": "2024-02-18",
+      "sales": 10684,
+      "conversions": 99,
+      "sessions": 446,
+      "winRate": 0.43901606918082364,
+      "lossRate": 0.25846677161452664
+    },
+    {
+      "date": "2024-02-19",
+      "sales": 1174,
+      "conversions": 80,
+      "sessions": 199,
+      "winRate": 0.40979124666678257,
+      "lossRate": 0.30035833321261096
+    },
+    {
+      "date": "2024-02-20",
+      "sales": 10168,
+      "conversions": 33,
+      "sessions": 1042,
+      "winRate": 0.49650019914836724,
+      "lossRate": 0.22323364234404047
+    },
+    {
+      "date": "2024-02-21",
+      "sales": 1531,
+      "conversions": 85,
+      "sessions": 336,
+      "winRate": 0.5209841586249968,
+      "lossRate": 0.2603949289702421
+    },
+    {
+      "date": "2024-02-22",
+      "sales": 2968,
+      "conversions": 87,
+      "sessions": 889,
+      "winRate": 0.4004089368359869,
+      "lossRate": 0.3194949226874675
+    },
+    {
+      "date": "2024-02-23",
+      "sales": 8290,
+      "conversions": 50,
+      "sessions": 511,
+      "winRate": 0.47182880245781944,
+      "lossRate": 0.2562005152231342
+    },
+    {
+      "date": "2024-02-24",
+      "sales": 3810,
+      "conversions": 89,
+      "sessions": 357,
+      "winRate": 0.4759612064342839,
+      "lossRate": 0.3817669339902745
+    },
+    {
+      "date": "2024-02-25",
+      "sales": 8491,
+      "conversions": 81,
+      "sessions": 485,
+      "winRate": 0.5956456228745484,
+      "lossRate": 0.20960976078121957
+    },
+    {
+      "date": "2024-02-26",
+      "sales": 9586,
+      "conversions": 19,
+      "sessions": 446,
+      "winRate": 0.5816301025482307,
+      "lossRate": 0.23708490427304563
+    },
+    {
+      "date": "2024-02-27",
+      "sales": 7850,
+      "conversions": 43,
+      "sessions": 781,
+      "winRate": 0.4533860381805114,
+      "lossRate": 0.2945339578365775
+    },
+    {
+      "date": "2024-02-28",
+      "sales": 2030,
+      "conversions": 16,
+      "sessions": 552,
+      "winRate": 0.4152333841866312,
+      "lossRate": 0.22227927410735152
+    },
+    {
+      "date": "2024-02-29",
+      "sales": 8525,
+      "conversions": 45,
+      "sessions": 824,
+      "winRate": 0.5569843808526898,
+      "lossRate": 0.2025828945262049
+    },
+    {
+      "date": "2024-03-01",
+      "sales": 5310,
+      "conversions": 11,
+      "sessions": 221,
+      "winRate": 0.5766716239974256,
+      "lossRate": 0.2650599880384121
+    },
+    {
+      "date": "2024-03-02",
+      "sales": 5936,
+      "conversions": 103,
+      "sessions": 559,
+      "winRate": 0.4767919771457276,
+      "lossRate": 0.3098178293009865
+    },
+    {
+      "date": "2024-03-03",
+      "sales": 7210,
+      "conversions": 12,
+      "sessions": 298,
+      "winRate": 0.4161432061055542,
+      "lossRate": 0.3065274877596458
+    },
+    {
+      "date": "2024-03-04",
+      "sales": 1949,
+      "conversions": 33,
+      "sessions": 1084,
+      "winRate": 0.5058128894937575,
+      "lossRate": 0.38593822916191073
+    },
+    {
+      "date": "2024-03-05",
+      "sales": 8679,
+      "conversions": 72,
+      "sessions": 1055,
+      "winRate": 0.4096822344270836,
+      "lossRate": 0.2314808324454167
+    },
+    {
+      "date": "2024-03-06",
+      "sales": 7389,
+      "conversions": 87,
+      "sessions": 460,
+      "winRate": 0.43046268255012,
+      "lossRate": 0.3154049375109227
+    },
+    {
+      "date": "2024-03-07",
+      "sales": 2068,
+      "conversions": 15,
+      "sessions": 1057,
+      "winRate": 0.5122430909677673,
+      "lossRate": 0.35941516669637846
+    },
+    {
+      "date": "2024-03-08",
+      "sales": 6591,
+      "conversions": 103,
+      "sessions": 882,
+      "winRate": 0.40782835954722574,
+      "lossRate": 0.20937618745595266
+    },
+    {
+      "date": "2024-03-09",
+      "sales": 5669,
+      "conversions": 95,
+      "sessions": 647,
+      "winRate": 0.5287775503906704,
+      "lossRate": 0.2542028529325012
+    },
+    {
+      "date": "2024-03-10",
+      "sales": 1530,
+      "conversions": 89,
+      "sessions": 513,
+      "winRate": 0.538972451226782,
+      "lossRate": 0.2655561100553546
+    },
+    {
+      "date": "2024-03-11",
+      "sales": 7499,
+      "conversions": 71,
+      "sessions": 150,
+      "winRate": 0.5743048264451189,
+      "lossRate": 0.3322770709855799
+    },
+    {
+      "date": "2024-03-12",
+      "sales": 3744,
+      "conversions": 53,
+      "sessions": 171,
+      "winRate": 0.5315678546691293,
+      "lossRate": 0.2600999585272193
+    },
+    {
+      "date": "2024-03-13",
+      "sales": 4102,
+      "conversions": 102,
+      "sessions": 232,
+      "winRate": 0.5426252241091801,
+      "lossRate": 0.253376527412041
+    },
+    {
+      "date": "2024-03-14",
+      "sales": 3711,
+      "conversions": 92,
+      "sessions": 310,
+      "winRate": 0.41083526420595606,
+      "lossRate": 0.2452632905855645
+    },
+    {
+      "date": "2024-03-15",
+      "sales": 9871,
+      "conversions": 84,
+      "sessions": 824,
+      "winRate": 0.5493136577369087,
+      "lossRate": 0.3633484087531805
+    },
+    {
+      "date": "2024-03-16",
+      "sales": 3696,
+      "conversions": 50,
+      "sessions": 844,
+      "winRate": 0.5858626177273987,
+      "lossRate": 0.3661708719933924
+    },
+    {
+      "date": "2024-03-17",
+      "sales": 9643,
+      "conversions": 51,
+      "sessions": 838,
+      "winRate": 0.5623830819225099,
+      "lossRate": 0.36473766863747165
+    },
+    {
+      "date": "2024-03-18",
+      "sales": 6332,
+      "conversions": 59,
+      "sessions": 360,
+      "winRate": 0.5018117367789299,
+      "lossRate": 0.38224153906581093
+    },
+    {
+      "date": "2024-03-19",
+      "sales": 10668,
+      "conversions": 40,
+      "sessions": 632,
+      "winRate": 0.5759334225905112,
+      "lossRate": 0.2777300045064173
+    },
+    {
+      "date": "2024-03-20",
+      "sales": 5575,
+      "conversions": 78,
+      "sessions": 101,
+      "winRate": 0.5125832617119244,
+      "lossRate": 0.32379603518136807
+    },
+    {
+      "date": "2024-03-21",
+      "sales": 5030,
+      "conversions": 80,
+      "sessions": 704,
+      "winRate": 0.42020953155536855,
+      "lossRate": 0.3594266727009652
+    },
+    {
+      "date": "2024-03-22",
+      "sales": 6797,
+      "conversions": 54,
+      "sessions": 974,
+      "winRate": 0.5529213054827088,
+      "lossRate": 0.23148518094508683
+    },
+    {
+      "date": "2024-03-23",
+      "sales": 6259,
+      "conversions": 99,
+      "sessions": 730,
+      "winRate": 0.5307881804978076,
+      "lossRate": 0.25389366772056965
+    },
+    {
+      "date": "2024-03-24",
+      "sales": 7828,
+      "conversions": 10,
+      "sessions": 426,
+      "winRate": 0.421291000650049,
+      "lossRate": 0.37738627604226777
+    },
+    {
+      "date": "2024-03-25",
+      "sales": 5881,
+      "conversions": 97,
+      "sessions": 188,
+      "winRate": 0.4023456324707824,
+      "lossRate": 0.3403355514985653
+    },
+    {
+      "date": "2024-03-26",
+      "sales": 6277,
+      "conversions": 86,
+      "sessions": 993,
+      "winRate": 0.4176831296537077,
+      "lossRate": 0.3159329509409032
+    },
+    {
+      "date": "2024-03-27",
+      "sales": 2132,
+      "conversions": 101,
+      "sessions": 743,
+      "winRate": 0.44211376853980894,
+      "lossRate": 0.3534405072363943
+    },
+    {
+      "date": "2024-03-28",
+      "sales": 7429,
+      "conversions": 65,
+      "sessions": 285,
+      "winRate": 0.435897816677599,
+      "lossRate": 0.39123716264180036
+    },
+    {
+      "date": "2024-03-29",
+      "sales": 8871,
+      "conversions": 15,
+      "sessions": 943,
+      "winRate": 0.47108343845331735,
+      "lossRate": 0.20458303771740227
+    },
+    {
+      "date": "2024-03-30",
+      "sales": 5684,
+      "conversions": 34,
+      "sessions": 137,
+      "winRate": 0.5994759270037817,
+      "lossRate": 0.3551340148113129
+    },
+    {
+      "date": "2024-03-31",
+      "sales": 4055,
+      "conversions": 62,
+      "sessions": 1096,
+      "winRate": 0.5533946451661546,
+      "lossRate": 0.22929201407776634
+    },
+    {
+      "date": "2024-04-01",
+      "sales": 10166,
+      "conversions": 36,
+      "sessions": 451,
+      "winRate": 0.4622488341691333,
+      "lossRate": 0.2346978494929701
+    },
+    {
+      "date": "2024-04-02",
+      "sales": 1300,
+      "conversions": 29,
+      "sessions": 778,
+      "winRate": 0.4343645026330029,
+      "lossRate": 0.3819089515692776
+    },
+    {
+      "date": "2024-04-03",
+      "sales": 1666,
+      "conversions": 53,
+      "sessions": 507,
+      "winRate": 0.445080143157955,
+      "lossRate": 0.3241837694759127
+    },
+    {
+      "date": "2024-04-04",
+      "sales": 7229,
+      "conversions": 44,
+      "sessions": 663,
+      "winRate": 0.5654712934767521,
+      "lossRate": 0.3810524378089954
+    },
+    {
+      "date": "2024-04-05",
+      "sales": 2421,
+      "conversions": 46,
+      "sessions": 355,
+      "winRate": 0.5796627992618149,
+      "lossRate": 0.3592266901824235
+    },
+    {
+      "date": "2024-04-06",
+      "sales": 9410,
+      "conversions": 77,
+      "sessions": 962,
+      "winRate": 0.4174935434730026,
+      "lossRate": 0.30509172196584655
+    },
+    {
+      "date": "2024-04-07",
+      "sales": 7312,
+      "conversions": 57,
+      "sessions": 163,
+      "winRate": 0.47730016802518455,
+      "lossRate": 0.3706401266927366
+    },
+    {
+      "date": "2024-04-08",
+      "sales": 4580,
+      "conversions": 94,
+      "sessions": 759,
+      "winRate": 0.5492263747667567,
+      "lossRate": 0.27838169220868975
+    },
+    {
+      "date": "2024-04-09",
+      "sales": 5063,
+      "conversions": 12,
+      "sessions": 720,
+      "winRate": 0.4558443752078297,
+      "lossRate": 0.34139903610180833
+    },
+    {
+      "date": "2024-04-10",
+      "sales": 9470,
+      "conversions": 19,
+      "sessions": 452,
+      "winRate": 0.4249259071705371,
+      "lossRate": 0.38952743330625594
+    },
+    {
+      "date": "2024-04-11",
+      "sales": 10262,
+      "conversions": 90,
+      "sessions": 342,
+      "winRate": 0.44635638700183333,
+      "lossRate": 0.39200346326275753
+    },
+    {
+      "date": "2024-04-12",
+      "sales": 3972,
+      "conversions": 36,
+      "sessions": 262,
+      "winRate": 0.454772786392817,
+      "lossRate": 0.21068175759102054
+    },
+    {
+      "date": "2024-04-13",
+      "sales": 3163,
+      "conversions": 15,
+      "sessions": 827,
+      "winRate": 0.5704367025599921,
+      "lossRate": 0.34285306547509753
+    },
+    {
+      "date": "2024-04-14",
+      "sales": 5013,
+      "conversions": 10,
+      "sessions": 882,
+      "winRate": 0.45837291514912293,
+      "lossRate": 0.3794480896914108
+    },
+    {
+      "date": "2024-04-15",
+      "sales": 2597,
+      "conversions": 91,
+      "sessions": 140,
+      "winRate": 0.4925985497517961,
+      "lossRate": 0.3235987636173278
+    },
+    {
+      "date": "2024-04-16",
+      "sales": 9184,
+      "conversions": 97,
+      "sessions": 206,
+      "winRate": 0.5664104028077406,
+      "lossRate": 0.2833403502577743
+    },
+    {
+      "date": "2024-04-17",
+      "sales": 6272,
+      "conversions": 82,
+      "sessions": 352,
+      "winRate": 0.47475637554445327,
+      "lossRate": 0.2770563004373015
+    },
+    {
+      "date": "2024-04-18",
+      "sales": 4300,
+      "conversions": 96,
+      "sessions": 1052,
+      "winRate": 0.48943422726182906,
+      "lossRate": 0.32474289222147185
+    },
+    {
+      "date": "2024-04-19",
+      "sales": 2081,
+      "conversions": 78,
+      "sessions": 849,
+      "winRate": 0.478267847559857,
+      "lossRate": 0.2781604230229937
+    },
+    {
+      "date": "2024-04-20",
+      "sales": 3142,
+      "conversions": 29,
+      "sessions": 898,
+      "winRate": 0.5164693214556453,
+      "lossRate": 0.2509076379608785
+    },
+    {
+      "date": "2024-04-21",
+      "sales": 3466,
+      "conversions": 66,
+      "sessions": 266,
+      "winRate": 0.5998109881874245,
+      "lossRate": 0.3656025892690778
+    },
+    {
+      "date": "2024-04-22",
+      "sales": 7856,
+      "conversions": 44,
+      "sessions": 939,
+      "winRate": 0.4404913363214772,
+      "lossRate": 0.2543294817839991
+    },
+    {
+      "date": "2024-04-23",
+      "sales": 9531,
+      "conversions": 75,
+      "sessions": 560,
+      "winRate": 0.5577507038329076,
+      "lossRate": 0.2296739006369892
+    },
+    {
+      "date": "2024-04-24",
+      "sales": 2457,
+      "conversions": 65,
+      "sessions": 863,
+      "winRate": 0.4274887187274382,
+      "lossRate": 0.3327458927174728
+    },
+    {
+      "date": "2024-04-25",
+      "sales": 2802,
+      "conversions": 24,
+      "sessions": 1083,
+      "winRate": 0.4048408949677332,
+      "lossRate": 0.2535009557276736
+    },
+    {
+      "date": "2024-04-26",
+      "sales": 7802,
+      "conversions": 47,
+      "sessions": 1047,
+      "winRate": 0.5897448867823654,
+      "lossRate": 0.201777506071675
+    },
+    {
+      "date": "2024-04-27",
+      "sales": 8646,
+      "conversions": 20,
+      "sessions": 220,
+      "winRate": 0.5077835691482431,
+      "lossRate": 0.2550309376291446
+    },
+    {
+      "date": "2024-04-28",
+      "sales": 1868,
+      "conversions": 22,
+      "sessions": 164,
+      "winRate": 0.4693520643567226,
+      "lossRate": 0.3752222218498098
+    },
+    {
+      "date": "2024-04-29",
+      "sales": 5041,
+      "conversions": 95,
+      "sessions": 580,
+      "winRate": 0.5378472582798406,
+      "lossRate": 0.3966951654625386
+    },
+    {
+      "date": "2024-04-30",
+      "sales": 7360,
+      "conversions": 59,
+      "sessions": 1002,
+      "winRate": 0.41565493466398806,
+      "lossRate": 0.25125684018377625
+    },
+    {
+      "date": "2024-05-01",
+      "sales": 6234,
+      "conversions": 83,
+      "sessions": 974,
+      "winRate": 0.5177842845261396,
+      "lossRate": 0.23506716247630133
+    },
+    {
+      "date": "2024-05-02",
+      "sales": 10940,
+      "conversions": 79,
+      "sessions": 390,
+      "winRate": 0.579611900287939,
+      "lossRate": 0.25080823735438584
+    },
+    {
+      "date": "2024-05-03",
+      "sales": 2937,
+      "conversions": 86,
+      "sessions": 434,
+      "winRate": 0.5701485945930111,
+      "lossRate": 0.3755696398073852
+    },
+    {
+      "date": "2024-05-04",
+      "sales": 1751,
+      "conversions": 44,
+      "sessions": 595,
+      "winRate": 0.4910939770571217,
+      "lossRate": 0.388090133172429
+    },
+    {
+      "date": "2024-05-05",
+      "sales": 6157,
+      "conversions": 104,
+      "sessions": 1080,
+      "winRate": 0.5786643489827035,
+      "lossRate": 0.2511894315351916
+    },
+    {
+      "date": "2024-05-06",
+      "sales": 5983,
+      "conversions": 24,
+      "sessions": 1045,
+      "winRate": 0.4444978220530066,
+      "lossRate": 0.2898202352371877
+    },
+    {
+      "date": "2024-05-07",
+      "sales": 10577,
+      "conversions": 37,
+      "sessions": 408,
+      "winRate": 0.516915312265983,
+      "lossRate": 0.320956164748554
+    },
+    {
+      "date": "2024-05-08",
+      "sales": 2216,
+      "conversions": 53,
+      "sessions": 610,
+      "winRate": 0.508615646449303,
+      "lossRate": 0.2829639765930396
+    },
+    {
+      "date": "2024-05-09",
+      "sales": 6211,
+      "conversions": 53,
+      "sessions": 472,
+      "winRate": 0.5174835485009227,
+      "lossRate": 0.22265278900650945
+    },
+    {
+      "date": "2024-05-10",
+      "sales": 6083,
+      "conversions": 29,
+      "sessions": 523,
+      "winRate": 0.45554771680923256,
+      "lossRate": 0.30837821084640704
+    },
+    {
+      "date": "2024-05-11",
+      "sales": 7436,
+      "conversions": 61,
+      "sessions": 496,
+      "winRate": 0.46778578081559335,
+      "lossRate": 0.2702443698661326
+    },
+    {
+      "date": "2024-05-12",
+      "sales": 8578,
+      "conversions": 79,
+      "sessions": 1022,
+      "winRate": 0.5816386631276828,
+      "lossRate": 0.3618493031126573
+    },
+    {
+      "date": "2024-05-13",
+      "sales": 8412,
+      "conversions": 80,
+      "sessions": 300,
+      "winRate": 0.4295323285967609,
+      "lossRate": 0.20604486625092922
+    },
+    {
+      "date": "2024-05-14",
+      "sales": 7521,
+      "conversions": 65,
+      "sessions": 180,
+      "winRate": 0.5488759315911249,
+      "lossRate": 0.3834619820928902
+    },
+    {
+      "date": "2024-05-15",
+      "sales": 6042,
+      "conversions": 37,
+      "sessions": 894,
+      "winRate": 0.4063979034618457,
+      "lossRate": 0.23038897267932926
+    },
+    {
+      "date": "2024-05-16",
+      "sales": 1472,
+      "conversions": 15,
+      "sessions": 748,
+      "winRate": 0.5449774521285147,
+      "lossRate": 0.20531316052064208
+    },
+    {
+      "date": "2024-05-17",
+      "sales": 2955,
+      "conversions": 92,
+      "sessions": 966,
+      "winRate": 0.5193923852431472,
+      "lossRate": 0.3363936166766225
+    },
+    {
+      "date": "2024-05-18",
+      "sales": 8219,
+      "conversions": 84,
+      "sessions": 425,
+      "winRate": 0.5528543993533944,
+      "lossRate": 0.20699097142767117
+    },
+    {
+      "date": "2024-05-19",
+      "sales": 1888,
+      "conversions": 87,
+      "sessions": 334,
+      "winRate": 0.5954496628218204,
+      "lossRate": 0.20720583880071866
+    },
+    {
+      "date": "2024-05-20",
+      "sales": 3680,
+      "conversions": 62,
+      "sessions": 312,
+      "winRate": 0.40801722358126846,
+      "lossRate": 0.3616601215838203
+    },
+    {
+      "date": "2024-05-21",
+      "sales": 1427,
+      "conversions": 44,
+      "sessions": 1096,
+      "winRate": 0.5885102113852768,
+      "lossRate": 0.33018614433491633
+    },
+    {
+      "date": "2024-05-22",
+      "sales": 6635,
+      "conversions": 40,
+      "sessions": 684,
+      "winRate": 0.4713306355395133,
+      "lossRate": 0.38003428160372316
+    },
+    {
+      "date": "2024-05-23",
+      "sales": 7724,
+      "conversions": 72,
+      "sessions": 444,
+      "winRate": 0.42620496509665196,
+      "lossRate": 0.35468332138253605
+    },
+    {
+      "date": "2024-05-24",
+      "sales": 2583,
+      "conversions": 86,
+      "sessions": 1000,
+      "winRate": 0.5623541813666149,
+      "lossRate": 0.36104881535099564
+    },
+    {
+      "date": "2024-05-25",
+      "sales": 6770,
+      "conversions": 101,
+      "sessions": 1060,
+      "winRate": 0.4335224678579936,
+      "lossRate": 0.22015098992814253
+    },
+    {
+      "date": "2024-05-26",
+      "sales": 7988,
+      "conversions": 42,
+      "sessions": 327,
+      "winRate": 0.4153372640646804,
+      "lossRate": 0.3028408685985893
+    },
+    {
+      "date": "2024-05-27",
+      "sales": 7616,
+      "conversions": 41,
+      "sessions": 898,
+      "winRate": 0.40711511474769346,
+      "lossRate": 0.39066400988787053
+    },
+    {
+      "date": "2024-05-28",
+      "sales": 8864,
+      "conversions": 18,
+      "sessions": 556,
+      "winRate": 0.47327731232362,
+      "lossRate": 0.2994397959107815
+    },
+    {
+      "date": "2024-05-29",
+      "sales": 7380,
+      "conversions": 51,
+      "sessions": 847,
+      "winRate": 0.4999264398616689,
+      "lossRate": 0.26093949216137124
+    },
+    {
+      "date": "2024-05-30",
+      "sales": 1204,
+      "conversions": 52,
+      "sessions": 811,
+      "winRate": 0.5307453987742041,
+      "lossRate": 0.39914979782469984
+    },
+    {
+      "date": "2024-05-31",
+      "sales": 3925,
+      "conversions": 29,
+      "sessions": 265,
+      "winRate": 0.5540466276288175,
+      "lossRate": 0.25547896998668
+    },
+    {
+      "date": "2024-06-01",
+      "sales": 10331,
+      "conversions": 51,
+      "sessions": 318,
+      "winRate": 0.4871907529599877,
+      "lossRate": 0.29123294682581014
+    },
+    {
+      "date": "2024-06-02",
+      "sales": 10645,
+      "conversions": 42,
+      "sessions": 138,
+      "winRate": 0.4564456004138957,
+      "lossRate": 0.3936981609460457
+    },
+    {
+      "date": "2024-06-03",
+      "sales": 2776,
+      "conversions": 107,
+      "sessions": 388,
+      "winRate": 0.40805308162251347,
+      "lossRate": 0.31018855112995714
+    },
+    {
+      "date": "2024-06-04",
+      "sales": 3749,
+      "conversions": 53,
+      "sessions": 487,
+      "winRate": 0.452979667353947,
+      "lossRate": 0.29304029011353655
+    },
+    {
+      "date": "2024-06-05",
+      "sales": 2538,
+      "conversions": 44,
+      "sessions": 866,
+      "winRate": 0.4715020604547628,
+      "lossRate": 0.27043864184042643
+    },
+    {
+      "date": "2024-06-06",
+      "sales": 10429,
+      "conversions": 63,
+      "sessions": 1012,
+      "winRate": 0.4400139170908775,
+      "lossRate": 0.3309111473257562
+    },
+    {
+      "date": "2024-06-07",
+      "sales": 1995,
+      "conversions": 42,
+      "sessions": 534,
+      "winRate": 0.5610702740568697,
+      "lossRate": 0.34009165932716745
+    },
+    {
+      "date": "2024-06-08",
+      "sales": 3433,
+      "conversions": 32,
+      "sessions": 402,
+      "winRate": 0.5129293180282611,
+      "lossRate": 0.35520196218754135
+    },
+    {
+      "date": "2024-06-09",
+      "sales": 3679,
+      "conversions": 11,
+      "sessions": 529,
+      "winRate": 0.583831394258251,
+      "lossRate": 0.31911361504938335
+    },
+    {
+      "date": "2024-06-10",
+      "sales": 9197,
+      "conversions": 99,
+      "sessions": 888,
+      "winRate": 0.5827745620628111,
+      "lossRate": 0.30074910231091834
+    },
+    {
+      "date": "2024-06-11",
+      "sales": 2370,
+      "conversions": 103,
+      "sessions": 416,
+      "winRate": 0.4643307906421972,
+      "lossRate": 0.36789686285254813
+    },
+    {
+      "date": "2024-06-12",
+      "sales": 8582,
+      "conversions": 35,
+      "sessions": 413,
+      "winRate": 0.5709288307181276,
+      "lossRate": 0.2498051096856814
+    },
+    {
+      "date": "2024-06-13",
+      "sales": 8021,
+      "conversions": 22,
+      "sessions": 852,
+      "winRate": 0.40870384978201535,
+      "lossRate": 0.35838310731258294
+    },
+    {
+      "date": "2024-06-14",
+      "sales": 8483,
+      "conversions": 30,
+      "sessions": 916,
+      "winRate": 0.5079277142687124,
+      "lossRate": 0.2800955590144004
+    },
+    {
+      "date": "2024-06-15",
+      "sales": 8831,
+      "conversions": 60,
+      "sessions": 946,
+      "winRate": 0.577781742435569,
+      "lossRate": 0.38631088335360514
+    },
+    {
+      "date": "2024-06-16",
+      "sales": 7161,
+      "conversions": 36,
+      "sessions": 934,
+      "winRate": 0.4373530088424006,
+      "lossRate": 0.38685164650000337
+    },
+    {
+      "date": "2024-06-17",
+      "sales": 4488,
+      "conversions": 48,
+      "sessions": 586,
+      "winRate": 0.545095268463381,
+      "lossRate": 0.26663223657979296
+    },
+    {
+      "date": "2024-06-18",
+      "sales": 1753,
+      "conversions": 28,
+      "sessions": 771,
+      "winRate": 0.5380904008095694,
+      "lossRate": 0.3204045654416148
+    },
+    {
+      "date": "2024-06-19",
+      "sales": 8912,
+      "conversions": 57,
+      "sessions": 781,
+      "winRate": 0.5128830499169632,
+      "lossRate": 0.39967722311444914
+    },
+    {
+      "date": "2024-06-20",
+      "sales": 7980,
+      "conversions": 81,
+      "sessions": 158,
+      "winRate": 0.5163656038664943,
+      "lossRate": 0.28438465520206435
+    },
+    {
+      "date": "2024-06-21",
+      "sales": 3431,
+      "conversions": 53,
+      "sessions": 1094,
+      "winRate": 0.5581781949406163,
+      "lossRate": 0.3786059812032194
+    },
+    {
+      "date": "2024-06-22",
+      "sales": 1771,
+      "conversions": 27,
+      "sessions": 428,
+      "winRate": 0.5493223374806357,
+      "lossRate": 0.3435890761173913
+    },
+    {
+      "date": "2024-06-23",
+      "sales": 2597,
+      "conversions": 52,
+      "sessions": 121,
+      "winRate": 0.5067018003900947,
+      "lossRate": 0.32140090674494076
+    },
+    {
+      "date": "2024-06-24",
+      "sales": 10241,
+      "conversions": 26,
+      "sessions": 886,
+      "winRate": 0.44791664759607247,
+      "lossRate": 0.21620649999669636
+    },
+    {
+      "date": "2024-06-25",
+      "sales": 4313,
+      "conversions": 52,
+      "sessions": 618,
+      "winRate": 0.44874150370621685,
+      "lossRate": 0.32555799726607076
+    },
+    {
+      "date": "2024-06-26",
+      "sales": 3445,
+      "conversions": 95,
+      "sessions": 734,
+      "winRate": 0.5447550953082891,
+      "lossRate": 0.2571655827501479
+    },
+    {
+      "date": "2024-06-27",
+      "sales": 4977,
+      "conversions": 69,
+      "sessions": 487,
+      "winRate": 0.5538698494152965,
+      "lossRate": 0.3709023592073413
+    },
+    {
+      "date": "2024-06-28",
+      "sales": 5174,
+      "conversions": 99,
+      "sessions": 680,
+      "winRate": 0.45348313356061,
+      "lossRate": 0.37650740604130184
+    },
+    {
+      "date": "2024-06-29",
+      "sales": 8270,
+      "conversions": 62,
+      "sessions": 1025,
+      "winRate": 0.43847359072787295,
+      "lossRate": 0.37086772979725563
+    },
+    {
+      "date": "2024-06-30",
+      "sales": 3519,
+      "conversions": 80,
+      "sessions": 615,
+      "winRate": 0.48166423667169056,
+      "lossRate": 0.28121546612946285
+    },
+    {
+      "date": "2024-07-01",
+      "sales": 5544,
+      "conversions": 20,
+      "sessions": 1026,
+      "winRate": 0.5416034761491335,
+      "lossRate": 0.393458954987973
+    },
+    {
+      "date": "2024-07-02",
+      "sales": 1747,
+      "conversions": 84,
+      "sessions": 1000,
+      "winRate": 0.5520580196407194,
+      "lossRate": 0.3136004378398964
+    },
+    {
+      "date": "2024-07-03",
+      "sales": 10343,
+      "conversions": 60,
+      "sessions": 568,
+      "winRate": 0.524643550156884,
+      "lossRate": 0.26704887726483767
+    },
+    {
+      "date": "2024-07-04",
+      "sales": 9882,
+      "conversions": 104,
+      "sessions": 1068,
+      "winRate": 0.40295867985604883,
+      "lossRate": 0.36010022694121024
+    },
+    {
+      "date": "2024-07-05",
+      "sales": 2584,
+      "conversions": 57,
+      "sessions": 113,
+      "winRate": 0.47928715041046027,
+      "lossRate": 0.26575544347718943
+    },
+    {
+      "date": "2024-07-06",
+      "sales": 9929,
+      "conversions": 49,
+      "sessions": 892,
+      "winRate": 0.5622238487228113,
+      "lossRate": 0.3457125842495453
+    },
+    {
+      "date": "2024-07-07",
+      "sales": 2173,
+      "conversions": 16,
+      "sessions": 567,
+      "winRate": 0.45937827030179235,
+      "lossRate": 0.30181633771883304
+    },
+    {
+      "date": "2024-07-08",
+      "sales": 8748,
+      "conversions": 77,
+      "sessions": 494,
+      "winRate": 0.4725503104145818,
+      "lossRate": 0.3940356911716467
+    },
+    {
+      "date": "2024-07-09",
+      "sales": 8505,
+      "conversions": 58,
+      "sessions": 213,
+      "winRate": 0.4879364751267221,
+      "lossRate": 0.26213214732366485
+    },
+    {
+      "date": "2024-07-10",
+      "sales": 3106,
+      "conversions": 57,
+      "sessions": 112,
+      "winRate": 0.4891639958333965,
+      "lossRate": 0.36232160913561323
+    },
+    {
+      "date": "2024-07-11",
+      "sales": 3136,
+      "conversions": 40,
+      "sessions": 919,
+      "winRate": 0.4724410954670381,
+      "lossRate": 0.3359549793872421
+    },
+    {
+      "date": "2024-07-12",
+      "sales": 7892,
+      "conversions": 68,
+      "sessions": 765,
+      "winRate": 0.4701891816190814,
+      "lossRate": 0.2807794947964782
+    },
+    {
+      "date": "2024-07-13",
+      "sales": 5583,
+      "conversions": 28,
+      "sessions": 321,
+      "winRate": 0.5972543936193183,
+      "lossRate": 0.3297498556448626
+    },
+    {
+      "date": "2024-07-14",
+      "sales": 6976,
+      "conversions": 82,
+      "sessions": 734,
+      "winRate": 0.5852399102907588,
+      "lossRate": 0.2081990306330822
+    },
+    {
+      "date": "2024-07-15",
+      "sales": 1071,
+      "conversions": 66,
+      "sessions": 718,
+      "winRate": 0.5123648763751283,
+      "lossRate": 0.35983264121490827
+    },
+    {
+      "date": "2024-07-16",
+      "sales": 1807,
+      "conversions": 18,
+      "sessions": 902,
+      "winRate": 0.5936667963861159,
+      "lossRate": 0.3065131114983269
+    },
+    {
+      "date": "2024-07-17",
+      "sales": 4044,
+      "conversions": 72,
+      "sessions": 991,
+      "winRate": 0.41824885192582356,
+      "lossRate": 0.26981572305702217
+    },
+    {
+      "date": "2024-07-18",
+      "sales": 7406,
+      "conversions": 94,
+      "sessions": 572,
+      "winRate": 0.43397706788462354,
+      "lossRate": 0.22754376984838728
+    },
+    {
+      "date": "2024-07-19",
+      "sales": 1881,
+      "conversions": 12,
+      "sessions": 557,
+      "winRate": 0.5484515144763056,
+      "lossRate": 0.35704364813822737
+    },
+    {
+      "date": "2024-07-20",
+      "sales": 1882,
+      "conversions": 36,
+      "sessions": 483,
+      "winRate": 0.4021820578451932,
+      "lossRate": 0.2597886603670533
+    },
+    {
+      "date": "2024-07-21",
+      "sales": 10893,
+      "conversions": 43,
+      "sessions": 641,
+      "winRate": 0.511634905910557,
+      "lossRate": 0.2502576891341255
+    },
+    {
+      "date": "2024-07-22",
+      "sales": 3724,
+      "conversions": 65,
+      "sessions": 724,
+      "winRate": 0.5549054583000611,
+      "lossRate": 0.23328360198735976
+    },
+    {
+      "date": "2024-07-23",
+      "sales": 1624,
+      "conversions": 79,
+      "sessions": 209,
+      "winRate": 0.42218944345074944,
+      "lossRate": 0.2854004959441187
+    },
+    {
+      "date": "2024-07-24",
+      "sales": 7834,
+      "conversions": 37,
+      "sessions": 667,
+      "winRate": 0.5327413200363237,
+      "lossRate": 0.3296034244282585
+    },
+    {
+      "date": "2024-07-25",
+      "sales": 2509,
+      "conversions": 44,
+      "sessions": 621,
+      "winRate": 0.41826889018641844,
+      "lossRate": 0.26813685842419327
+    },
+    {
+      "date": "2024-07-26",
+      "sales": 7979,
+      "conversions": 93,
+      "sessions": 677,
+      "winRate": 0.44660900810284937,
+      "lossRate": 0.27135858416353464
+    },
+    {
+      "date": "2024-07-27",
+      "sales": 9881,
+      "conversions": 93,
+      "sessions": 566,
+      "winRate": 0.5451197170347397,
+      "lossRate": 0.20323554971438448
+    },
+    {
+      "date": "2024-07-28",
+      "sales": 9434,
+      "conversions": 81,
+      "sessions": 379,
+      "winRate": 0.4487266495465645,
+      "lossRate": 0.3568013833185948
+    },
+    {
+      "date": "2024-07-29",
+      "sales": 6591,
+      "conversions": 24,
+      "sessions": 436,
+      "winRate": 0.4674872908374336,
+      "lossRate": 0.31915492050147903
+    },
+    {
+      "date": "2024-07-30",
+      "sales": 2722,
+      "conversions": 104,
+      "sessions": 1046,
+      "winRate": 0.4982586740459695,
+      "lossRate": 0.372712858293883
+    },
+    {
+      "date": "2024-07-31",
+      "sales": 7649,
+      "conversions": 19,
+      "sessions": 465,
+      "winRate": 0.598452942508484,
+      "lossRate": 0.37437669008419006
+    },
+    {
+      "date": "2024-08-01",
+      "sales": 6806,
+      "conversions": 108,
+      "sessions": 615,
+      "winRate": 0.46293712043666296,
+      "lossRate": 0.313240629851659
+    },
+    {
+      "date": "2024-08-02",
+      "sales": 2705,
+      "conversions": 92,
+      "sessions": 371,
+      "winRate": 0.5057247893301061,
+      "lossRate": 0.2899749920744356
+    },
+    {
+      "date": "2024-08-03",
+      "sales": 3113,
+      "conversions": 16,
+      "sessions": 362,
+      "winRate": 0.5808687855876905,
+      "lossRate": 0.32013414478047325
+    },
+    {
+      "date": "2024-08-04",
+      "sales": 4245,
+      "conversions": 40,
+      "sessions": 1035,
+      "winRate": 0.4643746602910413,
+      "lossRate": 0.3025087176075046
+    },
+    {
+      "date": "2024-08-05",
+      "sales": 9971,
+      "conversions": 30,
+      "sessions": 728,
+      "winRate": 0.44084941457552307,
+      "lossRate": 0.38909789088162544
+    },
+    {
+      "date": "2024-08-06",
+      "sales": 4462,
+      "conversions": 64,
+      "sessions": 969,
+      "winRate": 0.5138660135875015,
+      "lossRate": 0.3649820711515973
+    },
+    {
+      "date": "2024-08-07",
+      "sales": 5435,
+      "conversions": 70,
+      "sessions": 898,
+      "winRate": 0.5070703475301923,
+      "lossRate": 0.23058910404910266
+    },
+    {
+      "date": "2024-08-08",
+      "sales": 6623,
+      "conversions": 106,
+      "sessions": 927,
+      "winRate": 0.529684056186797,
+      "lossRate": 0.30740599625254483
+    },
+    {
+      "date": "2024-08-09",
+      "sales": 3153,
+      "conversions": 26,
+      "sessions": 854,
+      "winRate": 0.4602443373562747,
+      "lossRate": 0.21193519861527346
+    },
+    {
+      "date": "2024-08-10",
+      "sales": 5477,
+      "conversions": 33,
+      "sessions": 1077,
+      "winRate": 0.44331550460669045,
+      "lossRate": 0.2856022269205785
+    },
+    {
+      "date": "2024-08-11",
+      "sales": 10382,
+      "conversions": 19,
+      "sessions": 1062,
+      "winRate": 0.4401895967361839,
+      "lossRate": 0.33120485273083167
+    },
+    {
+      "date": "2024-08-12",
+      "sales": 10475,
+      "conversions": 53,
+      "sessions": 931,
+      "winRate": 0.5480194592696167,
+      "lossRate": 0.33616489841023156
+    },
+    {
+      "date": "2024-08-13",
+      "sales": 10301,
+      "conversions": 77,
+      "sessions": 706,
+      "winRate": 0.5915567580402532,
+      "lossRate": 0.38961431056395956
+    },
+    {
+      "date": "2024-08-14",
+      "sales": 8722,
+      "conversions": 109,
+      "sessions": 712,
+      "winRate": 0.5986819175122025,
+      "lossRate": 0.34434752114823175
+    },
+    {
+      "date": "2024-08-15",
+      "sales": 6923,
+      "conversions": 51,
+      "sessions": 504,
+      "winRate": 0.5731732562451389,
+      "lossRate": 0.26743407068124736
+    },
+    {
+      "date": "2024-08-16",
+      "sales": 9642,
+      "conversions": 58,
+      "sessions": 997,
+      "winRate": 0.4150965583563005,
+      "lossRate": 0.3873708271689948
+    },
+    {
+      "date": "2024-08-17",
+      "sales": 3590,
+      "conversions": 47,
+      "sessions": 456,
+      "winRate": 0.44186001288071225,
+      "lossRate": 0.3112448901744052
+    },
+    {
+      "date": "2024-08-18",
+      "sales": 1868,
+      "conversions": 93,
+      "sessions": 686,
+      "winRate": 0.48055770767890826,
+      "lossRate": 0.3471289229619697
+    },
+    {
+      "date": "2024-08-19",
+      "sales": 2026,
+      "conversions": 13,
+      "sessions": 936,
+      "winRate": 0.5848863650045834,
+      "lossRate": 0.24613707081602249
+    },
+    {
+      "date": "2024-08-20",
+      "sales": 2140,
+      "conversions": 72,
+      "sessions": 292,
+      "winRate": 0.5282341292041205,
+      "lossRate": 0.3041481509972723
+    },
+    {
+      "date": "2024-08-21",
+      "sales": 7832,
+      "conversions": 74,
+      "sessions": 160,
+      "winRate": 0.5401605391339582,
+      "lossRate": 0.22895633215541575
+    },
+    {
+      "date": "2024-08-22",
+      "sales": 8644,
+      "conversions": 37,
+      "sessions": 544,
+      "winRate": 0.5575474737415305,
+      "lossRate": 0.2624232045983517
+    },
+    {
+      "date": "2024-08-23",
+      "sales": 6093,
+      "conversions": 87,
+      "sessions": 698,
+      "winRate": 0.4767655667335606,
+      "lossRate": 0.318277965154605
+    },
+    {
+      "date": "2024-08-24",
+      "sales": 1848,
+      "conversions": 91,
+      "sessions": 477,
+      "winRate": 0.491779085441894,
+      "lossRate": 0.3366849358203827
+    },
+    {
+      "date": "2024-08-25",
+      "sales": 8680,
+      "conversions": 59,
+      "sessions": 280,
+      "winRate": 0.4193862505519533,
+      "lossRate": 0.27874186804119805
+    },
+    {
+      "date": "2024-08-26",
+      "sales": 6713,
+      "conversions": 75,
+      "sessions": 473,
+      "winRate": 0.420003507877837,
+      "lossRate": 0.24649387575967263
+    },
+    {
+      "date": "2024-08-27",
+      "sales": 7461,
+      "conversions": 11,
+      "sessions": 515,
+      "winRate": 0.44366453520669685,
+      "lossRate": 0.3420805193489742
+    },
+    {
+      "date": "2024-08-28",
+      "sales": 10458,
+      "conversions": 107,
+      "sessions": 501,
+      "winRate": 0.5499582085543328,
+      "lossRate": 0.33973611403008414
+    },
+    {
+      "date": "2024-08-29",
+      "sales": 8570,
+      "conversions": 21,
+      "sessions": 860,
+      "winRate": 0.4664225946402017,
+      "lossRate": 0.27102362638963684
+    },
+    {
+      "date": "2024-08-30",
+      "sales": 9964,
+      "conversions": 75,
+      "sessions": 551,
+      "winRate": 0.408293887868273,
+      "lossRate": 0.3947416186593619
+    },
+    {
+      "date": "2024-08-31",
+      "sales": 8724,
+      "conversions": 12,
+      "sessions": 418,
+      "winRate": 0.5775644711548819,
+      "lossRate": 0.2178893242828112
+    },
+    {
+      "date": "2024-09-01",
+      "sales": 6343,
+      "conversions": 26,
+      "sessions": 204,
+      "winRate": 0.5313717748808463,
+      "lossRate": 0.3104865610525271
+    },
+    {
+      "date": "2024-09-02",
+      "sales": 3438,
+      "conversions": 54,
+      "sessions": 619,
+      "winRate": 0.5295428829427926,
+      "lossRate": 0.3904958921444492
+    },
+    {
+      "date": "2024-09-03",
+      "sales": 7097,
+      "conversions": 12,
+      "sessions": 602,
+      "winRate": 0.5630561908423749,
+      "lossRate": 0.21193293028785845
+    },
+    {
+      "date": "2024-09-04",
+      "sales": 4693,
+      "conversions": 33,
+      "sessions": 600,
+      "winRate": 0.5617594827781519,
+      "lossRate": 0.3435030930412657
+    },
+    {
+      "date": "2024-09-05",
+      "sales": 10470,
+      "conversions": 64,
+      "sessions": 952,
+      "winRate": 0.44889646619433443,
+      "lossRate": 0.2120301227670412
+    },
+    {
+      "date": "2024-09-06",
+      "sales": 8147,
+      "conversions": 55,
+      "sessions": 152,
+      "winRate": 0.40488036804242433,
+      "lossRate": 0.27911919188987616
+    },
+    {
+      "date": "2024-09-07",
+      "sales": 5554,
+      "conversions": 59,
+      "sessions": 784,
+      "winRate": 0.5076710306609927,
+      "lossRate": 0.3585356932518853
+    },
+    {
+      "date": "2024-09-08",
+      "sales": 9866,
+      "conversions": 13,
+      "sessions": 635,
+      "winRate": 0.553335768385616,
+      "lossRate": 0.3308245876868954
+    },
+    {
+      "date": "2024-09-09",
+      "sales": 9797,
+      "conversions": 82,
+      "sessions": 215,
+      "winRate": 0.4031596333372194,
+      "lossRate": 0.21883718981512035
+    },
+    {
+      "date": "2024-09-10",
+      "sales": 4563,
+      "conversions": 59,
+      "sessions": 465,
+      "winRate": 0.49636093018697997,
+      "lossRate": 0.32106868589377807
+    },
+    {
+      "date": "2024-09-11",
+      "sales": 8884,
+      "conversions": 17,
+      "sessions": 432,
+      "winRate": 0.5058481396030827,
+      "lossRate": 0.23250794371967973
+    },
+    {
+      "date": "2024-09-12",
+      "sales": 9013,
+      "conversions": 66,
+      "sessions": 977,
+      "winRate": 0.5424399799876285,
+      "lossRate": 0.30146736717194644
+    },
+    {
+      "date": "2024-09-13",
+      "sales": 5422,
+      "conversions": 93,
+      "sessions": 725,
+      "winRate": 0.4521198082825926,
+      "lossRate": 0.28560143849635744
+    },
+    {
+      "date": "2024-09-14",
+      "sales": 8610,
+      "conversions": 43,
+      "sessions": 284,
+      "winRate": 0.4393285893030711,
+      "lossRate": 0.28413325463087274
+    },
+    {
+      "date": "2024-09-15",
+      "sales": 5074,
+      "conversions": 95,
+      "sessions": 766,
+      "winRate": 0.4877183438778472,
+      "lossRate": 0.30240984800477105
+    },
+    {
+      "date": "2024-09-16",
+      "sales": 9258,
+      "conversions": 50,
+      "sessions": 991,
+      "winRate": 0.5612365556375698,
+      "lossRate": 0.24868502803190756
+    },
+    {
+      "date": "2024-09-17",
+      "sales": 1357,
+      "conversions": 50,
+      "sessions": 1013,
+      "winRate": 0.47261659677652057,
+      "lossRate": 0.27069837891797865
+    },
+    {
+      "date": "2024-09-18",
+      "sales": 9669,
+      "conversions": 87,
+      "sessions": 143,
+      "winRate": 0.4733464376614302,
+      "lossRate": 0.2852819736900956
+    },
+    {
+      "date": "2024-09-19",
+      "sales": 9927,
+      "conversions": 106,
+      "sessions": 565,
+      "winRate": 0.4483461555303822,
+      "lossRate": 0.25907938493344995
+    },
+    {
+      "date": "2024-09-20",
+      "sales": 8729,
+      "conversions": 24,
+      "sessions": 1069,
+      "winRate": 0.490054003861224,
+      "lossRate": 0.3324668439864249
+    },
+    {
+      "date": "2024-09-21",
+      "sales": 3148,
+      "conversions": 79,
+      "sessions": 391,
+      "winRate": 0.5207986206811017,
+      "lossRate": 0.27487143426733446
+    },
+    {
+      "date": "2024-09-22",
+      "sales": 2006,
+      "conversions": 84,
+      "sessions": 895,
+      "winRate": 0.47121355956787153,
+      "lossRate": 0.2674160665674625
+    },
+    {
+      "date": "2024-09-23",
+      "sales": 9157,
+      "conversions": 24,
+      "sessions": 796,
+      "winRate": 0.4416621599014612,
+      "lossRate": 0.32145264413641494
+    },
+    {
+      "date": "2024-09-24",
+      "sales": 8865,
+      "conversions": 27,
+      "sessions": 797,
+      "winRate": 0.4050001048692795,
+      "lossRate": 0.39602366228971425
+    },
+    {
+      "date": "2024-09-25",
+      "sales": 9437,
+      "conversions": 45,
+      "sessions": 820,
+      "winRate": 0.48340381467467414,
+      "lossRate": 0.3936110054530963
+    },
+    {
+      "date": "2024-09-26",
+      "sales": 5059,
+      "conversions": 57,
+      "sessions": 368,
+      "winRate": 0.5270978596700446,
+      "lossRate": 0.32493678271487514
+    }
+  ],
+  "mediumData": [
+    { "name": "Organic", "value": 400 },
+    { "name": "Paid", "value": 300 },
+    { "name": "Social", "value": 200 },
+    { "name": "Referral", "value": 100 }
+  ]
+}
